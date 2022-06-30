@@ -2,25 +2,25 @@ from packages import utils
 
 notes = utils.read_csv('govt_urls_state_only.csv', 'Note')
 
+top_n_gram = []
 unigram =[]
 bigram =[]
 trigram =[]
-top_ngram = []
 all_clean_lines = []
-json_dict = {
-    "Unigram": {},
-    "Bigram": {},
-    "Trigram": {},
-    "Notes with top n_gram": {}
-    }
+main_dict = {
+    "Unigram": [],
+    "Bigram": [],
+    "Trigram": []
+}
+write_this = []
 
-def make_json(key, ngram, n=20):
-    for k,v in utils.n_gram_freq(ngram, n):
-        json_dict[key][k] = v
+def add_to_main_dict(key, ngram):
+    for k,v in utils.n_gram_freq(ngram):
+        main_dict[key].append([k, v])
 
-def all_top_ngrams(ngram):        
-    for items in json_dict[ngram].keys():
-        top_ngram.append(items[2:-2].replace('\'', '').replace(' ', '').split(','))
+def add_to_top_ngram(ngram, main_dict, n=20): 
+    for item, freq in main_dict[ngram][:20]:
+        top_n_gram.append(item[2:-2].replace('\'', '').replace(',', ''))
 
 for lines in notes:
     clean = utils.remove_punctuation(lines)
@@ -29,30 +29,29 @@ for lines in notes:
     unigram.extend(utils.generate_n_grams(words[:-4], 1))
     bigram.extend(utils.generate_n_grams(words[:-4], 2))
     trigram.extend(utils.generate_n_grams(words[:-4], 3))
-    clean_line = ''
+    clean_line = ' '
     for i in range(len(words)):
         clean_line += (words[i]+' ')
-    all_clean_lines.append(clean_line)
+    all_clean_lines.append(' '.join(words))
 
-make_json('Unigram', unigram)
-make_json('Bigram', bigram)
-make_json('Trigram', trigram)
+add_to_main_dict('Unigram', unigram)
+add_to_main_dict('Bigram', bigram)
+add_to_main_dict('Trigram', trigram)
 
-for items in json_dict['Unigram'].keys():
-    top_ngram.append(items[2:-2].replace('\'', '').replace(',', ''))
-for items in json_dict['Bigram'].keys():
-    top_ngram.append(items[2:-2].replace('\'', '').replace(',', ''))
-for items in json_dict['Trigram'].keys():
-    top_ngram.append(items[2:-2].replace('\'', '').replace(',', ''))
+add_to_top_ngram('Unigram', main_dict)
+add_to_top_ngram('Bigram', main_dict)
+add_to_top_ngram('Trigram', main_dict)
 
+for i in range(len(all_clean_lines)):
+    write_this.append({
+        'Note': str,
+        'Unigram': [],
+        'Bigram': [],
+        'Trigram': []
+    })
+    write_this[i]['Note'] = notes[i]
+    write_this[i]['Unigram'].extend([ngram for ngram in top_n_gram[:20] if " "+ngram+" " in ' '+all_clean_lines[i]+' '])
+    write_this[i]['Bigram'].extend([ngram for ngram in top_n_gram[20:40] if " "+ngram+" " in ' '+all_clean_lines[i]+' '])
+    write_this[i]['Trigram'].extend([ngram for ngram in top_n_gram[40:] if " "+ngram+" " in ' '+all_clean_lines[i]+' '])
 
-for ngram in top_ngram:
-    count = 0
-    for line in all_clean_lines:
-        if (' '+ngram+' ') in line:
-            if f'{ngram}' not in json_dict['Notes with top n_gram'].keys():
-                json_dict['Notes with top n_gram'][f'{ngram}'] = []
-            json_dict['Notes with top n_gram'][f'{ngram}'].append(notes[count])
-        count +=1
-
-utils.write_json('result.json', json_dict)
+utils.write_csv('notes_with_ngrams.csv', write_this, write_this[0].keys())
