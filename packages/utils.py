@@ -1,8 +1,9 @@
 import csv
+from curses.panel import top_panel
 from nltk.corpus import stopwords
 import string
 import json
-from collections import Counter
+
 
 en_stopwords = stopwords.words('english')
 
@@ -23,17 +24,16 @@ def remove_punctuation(line):
     lower = returnline.lower()
     return lower
 
-def generate_n_grams(text, n_gram):
+def generate_n_grams(words, n_gram):
     n_gram_result = []
-    words = [word for word in text if word.lower() not in en_stopwords]
     for i in range(len(words)-n_gram+1):
             n_gram_result.append(words[i:i+n_gram])
     return n_gram_result
 
 
-def n_gram_freq(ngram, n):
+def n_gram_freq(ngram):
     """
-    Returns first n most frequent value of ngram along with it's frequency
+    Returns ngram along with it's frequency in descending order
     """
     frequency = {}
     for items in ngram:
@@ -43,11 +43,11 @@ def n_gram_freq(ngram, n):
             frequency[f'{items}'] += 1
 
     return (list(sorted(frequency.items(), key =
-                lambda kv:(kv[1], kv[0]), reverse= True))[:n])
+                lambda kv:(kv[1], kv[0]), reverse= True)))
             
 
 
-def write_csv(to_write, columns, filename):
+def write_csv(filename, to_write, columns):
     with open (filename, 'w') as f:
         writer = csv.DictWriter(f, fieldnames=columns)
         writer.writeheader()
@@ -58,3 +58,5 @@ def write_json(filename, json_dict):
     with open (filename, 'w') as f:
         writer = json.dumps(json_dict, indent=2, ensure_ascii = False)
         f.write(writer)
+
+
