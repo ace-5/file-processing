@@ -1,5 +1,4 @@
 import csv
-from curses.panel import top_panel
 from nltk.corpus import stopwords
 import string
 import json
