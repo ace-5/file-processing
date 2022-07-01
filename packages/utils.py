@@ -18,16 +18,18 @@ def read_csv(file_name, col_name):
 def remove_punctuation(line):
     returnline = ''
     for letter in line:
-        if letter in string.punctuation:
+        if letter in string.punctuation.replace('-', ''):
             continue
         returnline += letter
     lower = returnline.lower()
     return lower
 
-def generate_n_grams(words, n_gram):
+def generate_n_grams(all_lines, ngram):
     n_gram_result = []
-    for i in range(len(words)-n_gram+1):
-            n_gram_result.append(words[i:i+n_gram])
+    for line in all_lines:
+        line = line.split()
+        for i in range(len(line)-ngram+1):
+            n_gram_result.append(line[i:i+ngram])
     return n_gram_result
 
 
@@ -37,10 +39,10 @@ def n_gram_freq(ngram):
     """
     frequency = {}
     for items in ngram:
-        if f'{items}' not in frequency.keys():
-            frequency[f'{items}'] = 1
+        if items not in frequency.keys():
+            frequency[items] = 1
         else:
-            frequency[f'{items}'] += 1
+            frequency[items] += 1
 
     return (list(sorted(frequency.items(), key =
                 lambda kv:(kv[1], kv[0]), reverse= True)))
