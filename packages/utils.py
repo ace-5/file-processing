@@ -38,12 +38,10 @@ def n_gram_freq(ngram):
     """
     frequency = {}
     for items in ngram:
-        if items not in frequency.keys():
-            frequency[items] = 1
-        else:
-            frequency[items] += 1
-
-    return (list(sorted(frequency.items(), key =
+        temp = " ".join(items)
+        if temp in frequency.keys():frequency[temp] +=1
+        else: frequency[temp] = 1
+    return(list(sorted(frequency.items(), key =
                 lambda kv:(kv[1], kv[0]), reverse= True)))
             
 
