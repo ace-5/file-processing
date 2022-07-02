@@ -23,6 +23,20 @@ def remove_punctuation(line):
     lower = returnline.lower()
     return lower
 
+def clean_line(line):
+    clean = remove_punctuation(line)
+    text = clean.split('--')[0].split()
+    line = [word for word in text if word not in en_stopwords]
+    return (" ".join(line))
+
+
+def get_top_ngrams(ngrams, top_n):
+    top_n_gram = []
+    for ngram, freq in n_gram_freq(ngrams)[:top_n]:
+        top_n_gram.append(ngram)
+    return top_n_gram
+
+
 def generate_n_grams(all_lines, ngram):
     n_gram_result = []
     for line in all_lines:
@@ -42,8 +56,7 @@ def n_gram_freq(ngram):
         if temp in frequency.keys():frequency[temp] +=1
         else: frequency[temp] = 1
     return(list(sorted(frequency.items(), key =
-                lambda kv:(kv[1], kv[0]), reverse= True)))
-            
+                lambda kv:(kv[1], kv[0]), reverse= True)))            
 
 
 def write_csv(filename, to_write, columns):
