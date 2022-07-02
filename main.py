@@ -2,63 +2,39 @@ from packages import utils
 
 notes = utils.read_csv('govt_urls_state_only.csv', 'Note')
 
-top_20_ngram = []
-all_n_gram = []
+line_wise_ngram = []
 n_grams_with_freq = []
-n_gram_string = []
-all_clean_lines = []
 write_this = []
-
-
-
-# loop to remove punctuations and stopwords from Note column
-# append each cleaned line to new list 
-for lines in notes:
-    words = []
-    clean = utils.remove_punctuation(lines)
+top_20_ngram = []
+# loop to collect ngarms line w
+for i in range(len(notes)):
+    clean = utils.remove_punctuation(notes[i])
     text = clean.split('--')[0].split()
     line = [word for word in text if word not in utils.en_stopwords]
-    all_clean_lines.append(' '.join(line))
+    line_str = ' '.join(line)
+    line_wise_ngram.append(utils.generate_n_grams(line_str, 1))
+    line_wise_ngram[i].extend(utils.generate_n_grams(line_str, 2))
+    line_wise_ngram[i].extend(utils.generate_n_grams(line_str, 3))
 
-# change 3 to 'n' to obtain grams from unigram to n-gram 
-# loop to manage internal variables and data structure
-for i in range(3):
-    temp = []
-    all_n_gram.append(utils.generate_n_grams(all_clean_lines, i+1))
-    for items in all_n_gram[i]:
-        temp.append(" ".join(items))
-    n_gram_string.append(temp) 
-    n_grams_with_freq.append(utils.n_gram_freq(n_gram_string[i]))
+ngrams_str_linewise = []
+for i in range(len(line_wise_ngram)):
+    x = []
+    for items in line_wise_ngram[i]:
+        x.append(" ".join(items))
+    ngrams_str_linewise.append(x)
 
 top_20_ngram.extend(ngram for ngram, freq in n_grams_with_freq[0][:20])
 top_20_ngram.extend(ngram for ngram, freq in n_grams_with_freq[1][:20])
 top_20_ngram.extend(ngram for ngram, freq in n_grams_with_freq[2][:20])
 
 for i in range(len(notes)):
-    line = [all_clean_lines[i]]
-    temp = []
-    line_ngram_string = []
-    line_ngram = []
-    note = notes[i]
-# generate n grams for each line
-# TODO: Make a function to generate and return joined string
-    line_ngram.extend(utils.generate_n_grams(line, 1))
-    line_ngram.extend(utils.generate_n_grams(line, 2))
-    line_ngram.extend(utils.generate_n_grams(line, 3))
-    
-    for items in line_ngram:
-        line_ngram_string.append(" ".join(items))
-    
-    for items in line_ngram_string:
+    current_ngram = []
+    for items in ngrams_str_linewise[i]:
         if items in top_20_ngram:
-            temp.append(items)
-    
-    temp = set(temp)
-    ngrams = ', '.join(temp)
+            current_ngram.append(items)
     write_this.append({
-        'ngrams': ngrams,
-        'Note': note
+        'ngrams': ",".join(set(current_ngram)),
+        "Notes": notes[i]
     })
 
-# write the prepared list to file 
 utils.write_csv('notes_with_ngrams.csv', write_this, write_this[0].keys())
