@@ -43,4 +43,4 @@ for i in range(len(notes)):
         "Notes": notes[i]
     })
 
-utils.write_csv('notes_with_ngrams.csv', write_this, write_this[0].keys())
+utils.write_csv('notes_with_ngrams_and_state_name.csv', write_this, write_this[0].keys())
