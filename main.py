@@ -30,13 +30,11 @@ write_this = []
 for i in range(len(notes)):
     current_ngram = []
     current_state = []
-
-    for items in utils.states:
-        if items in notes[i]:
-            current_state.append(items.title())
     for items in line_wise_ngram[i]:
         if items in clean_top_ngram:
             current_ngram.append(items)
+        if items in utils.states_lwr:
+            current_state.append(items.title())
     write_this.append({
         'ngrams': ",".join(set(current_ngram)),
         'state': ", ".join(set(current_state)),
