@@ -23,16 +23,23 @@ top_n_gram = []
 top_n_gram+=utils.get_top_ngrams(uni, 20)
 top_n_gram+=utils.get_top_ngrams(bi, 20)
 top_n_gram+=utils.get_top_ngrams(tri, 20)
+clean_top_ngram = utils.remove_state_name(top_n_gram)
 
 
 write_this = []
 for i in range(len(notes)):
     current_ngram = []
+    current_state = []
+
+    for items in utils.states:
+        if items in notes[i]:
+            current_state.append(items.title())
     for items in line_wise_ngram[i]:
-        if items in top_n_gram:
+        if items in clean_top_ngram:
             current_ngram.append(items)
     write_this.append({
         'ngrams': ",".join(set(current_ngram)),
+        'state': ", ".join(set(current_state)),
         "Notes": notes[i]
     })
 

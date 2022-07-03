@@ -3,7 +3,6 @@ from nltk.corpus import stopwords
 import string
 import json
 
-
 en_stopwords = stopwords.words('english')
 
 def read_csv(file_name, col_name):
@@ -14,6 +13,10 @@ def read_csv(file_name, col_name):
             result.append(row[col_name])
     return result
 
+states = set(sorted(read_csv('govt_urls_state_only.csv', 'Location')))
+states_lwr = sorted([state.lower() for state in states if state])
+
+
 def remove_punctuation(line):
     returnline = ''
     for letter in line:
@@ -22,6 +25,20 @@ def remove_punctuation(line):
         returnline += letter
     lower = returnline.lower()
     return lower
+
+def remove_state_name(list):
+    clean_top_ngram =[]
+    for items in list:
+        if has_state_name(items):
+            continue
+        clean_top_ngram.append(items)
+    return clean_top_ngram
+
+def has_state_name(ngram):
+        for state in states_lwr:
+                if state in ngram.lower():
+                    return True
+        return False
 
 def clean_line(line):
     clean = remove_punctuation(line)
