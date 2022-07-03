@@ -1,831 +1,831 @@
 ngrams,state,Notes
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Vermont",Travel and Tourism Site for Vermont -- Note added 6/6/13 19:19
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Vermont,Travel and Tourism Site for Vermont -- Note added 6/6/13 19:19
 ,,See historical snapshot at: http://web.archive.org/web/20080120044716/http://www.1800arkansas.com/  -- Note added 1/24/14 14:38
-"services,department",", Virginia","2-1-1 VIRGINIA is a service of the Virginia Department of Social Services provided in partnership with the Council of Community Services, the Family Resource and Referral Center, The Planning Council, the United Way of Central Virginia, and the United Way of Greater Richmond and Petersburg. -- Note added 5/27/14 14:14"
-"services,department",", Virginia","2-1-1 VIRGINIA is a service of the Virginia Department of Social Services provided in partnership with the Council of Community Services, the Family Resource and Referral Center, The Planning Council, the United Way of Central Virginia, and the United Way of Greater Richmond and Petersburg. -- Note added 1/10/14 19:17"
+"services,department",Virginia,"2-1-1 VIRGINIA is a service of the Virginia Department of Social Services provided in partnership with the Council of Community Services, the Family Resource and Referral Center, The Planning Council, the United Way of Central Virginia, and the United Way of Greater Richmond and Petersburg. -- Note added 5/27/14 14:14"
+"services,department",Virginia,"2-1-1 VIRGINIA is a service of the Virginia Department of Social Services provided in partnership with the Council of Community Services, the Family Resource and Referral Center, The Planning Council, the United Way of Central Virginia, and the United Way of Greater Richmond and Petersburg. -- Note added 1/10/14 19:17"
 ,,4th Judicial District Attorney -- Note added 1/10/14 19:17
-"york state,services,department,state",", New York","511 NY (New York State Department of Transportation), the free, official one-stop, all-encompassing telephone and Web service offering  information on transportation services and conditions throughout New York State.  -- Note added 1/24/14 14:34"
-state,", Idaho",State of Idaho (mirror website of www.idaho.gov) -- Note added 7/17/14 14:28
-,", Alabama",Alabama Cooperative Extension System -- Note added 6/12/13 16:37
-,", New Mexico",New Mexico Cooperative Extension Publications -- Note added 7/25/13 17:38
-,", Pennsylvania",Pennsylvania Adoption Exchange -- Note added 6/30/14 15:39
-"public health,health,department,public",", Alabama",Alabama Department of Public Health -- Note added 6/12/13 16:40
-,", Massachusetts",University of Massachusetts Center for Agriculture Research and Extension -- Note added 11/20/13 15:32
-,", Texas",Texas A&M AgriLife Extension -- Note added 3/3/15 6:32
-authority,", Alabama",Alabama Housing Finance Authority -- Note added 6/12/13 16:40
-,", Alaska",Alaska Housing Finance Corporation -- Note added 6/6/13 18:08
-authority,", Alaska",Alaska Industrial Development and Export Authority -- Note added 6/6/13 18:08
-"division,department",", Alaska",Alaska's Department of Military and Veterans Affairs Division of Homeland Security and Emergency Management -- Note added 6/27/14 6:01
-board,", Alaska",Alaska Aerospace Corporation (Board of directors appointed by Alaska governor) -- Note added 7/23/14 15:36
-authority,", Alaska",Alaska Energy Authority -- Note added 6/6/13 18:08
-"commission,public",", Alaska",Alaska Public Broadcasting Commission -- Note added 6/6/13 18:08
-,", Alaska",Alaska Railroad Corporation -- Note added 6/6/13 18:08
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Alabama",Travel and Tourism Site for Alabama -- Note added 6/6/13 19:22
-national guard,", Alabama",Alabama National Guard Counterdrug Program -- Note added 1/23/14 13:41
-office,", Alabama",Alabama Film Office -- Note added 6/12/13 16:42
-state,", Alabama","Alabama's Legal Information Center, Alabama Supreme Court and State Law Library Catalog -¬†catalog.alalinc.net and 2.alalinc.net -- Note added 6/12/13 16:43"
-,", Alaska",Alaska Railroad Corporation -- Note added 7/2/13 17:55
-,", Alaska",Alaska Seafood Marketing Institute -- Note added 6/6/13 18:08
-"state board,board,commission,state",", Alabama",Alabama State Board of Medical Examiners (an administrative and regulatory agency of the state of Alabama) and the Medical Licensure Commission of Alabama -- Note added 6/12/13 16:46
-board,", Alabama",Alabama Board of Pharmacy -- Note added 6/12/13 16:47
-"department education,department,state",", Alabama",Alabama State Department of Education -- Note added 6/12/13 17:15
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", American Samoa",Travel and Tourism Site for American Samoa -- Note added 6/6/13 19:22
-state,", Oregon, Washington","Amtrak Cascades, a train service sponsored by the state departments of transportation of Washington and Oregon. -- Note added 6/17/14 14:40"
+"services,state,department,york state",New York,"511 NY (New York State Department of Transportation), the free, official one-stop, all-encompassing telephone and Web service offering  information on transportation services and conditions throughout New York State.  -- Note added 1/24/14 14:34"
+state,Idaho,State of Idaho (mirror website of www.idaho.gov) -- Note added 7/17/14 14:28
+,Alabama,Alabama Cooperative Extension System -- Note added 6/12/13 16:37
+,New Mexico,New Mexico Cooperative Extension Publications -- Note added 7/25/13 17:38
+,Pennsylvania,Pennsylvania Adoption Exchange -- Note added 6/30/14 15:39
+"public health,public,health,department",Alabama,Alabama Department of Public Health -- Note added 6/12/13 16:40
+,Massachusetts,University of Massachusetts Center for Agriculture Research and Extension -- Note added 11/20/13 15:32
+,Texas,Texas A&M AgriLife Extension -- Note added 3/3/15 6:32
+authority,Alabama,Alabama Housing Finance Authority -- Note added 6/12/13 16:40
+,Alaska,Alaska Housing Finance Corporation -- Note added 6/6/13 18:08
+authority,Alaska,Alaska Industrial Development and Export Authority -- Note added 6/6/13 18:08
+"division,department",Alaska,Alaska's Department of Military and Veterans Affairs Division of Homeland Security and Emergency Management -- Note added 6/27/14 6:01
+board,Alaska,Alaska Aerospace Corporation (Board of directors appointed by Alaska governor) -- Note added 7/23/14 15:36
+authority,Alaska,Alaska Energy Authority -- Note added 6/6/13 18:08
+"public,commission",Alaska,Alaska Public Broadcasting Commission -- Note added 6/6/13 18:08
+,Alaska,Alaska Railroad Corporation -- Note added 6/6/13 18:08
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Alabama,Travel and Tourism Site for Alabama -- Note added 6/6/13 19:22
+national guard,Alabama,Alabama National Guard Counterdrug Program -- Note added 1/23/14 13:41
+office,Alabama,Alabama Film Office -- Note added 6/12/13 16:42
+state,Alabama,"Alabama's Legal Information Center, Alabama Supreme Court and State Law Library Catalog -¬†catalog.alalinc.net and 2.alalinc.net -- Note added 6/12/13 16:43"
+,Alaska,Alaska Railroad Corporation -- Note added 7/2/13 17:55
+,Alaska,Alaska Seafood Marketing Institute -- Note added 6/6/13 18:08
+"board,state,state board,commission",Alabama,Alabama State Board of Medical Examiners (an administrative and regulatory agency of the state of Alabama) and the Medical Licensure Commission of Alabama -- Note added 6/12/13 16:46
+board,Alabama,Alabama Board of Pharmacy -- Note added 6/12/13 16:47
+"department education,state,department",Alabama,Alabama State Department of Education -- Note added 6/12/13 17:15
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",American Samoa,Travel and Tourism Site for American Samoa -- Note added 6/6/13 19:22
+state,"Washington, Oregon","Amtrak Cascades, a train service sponsored by the state departments of transportation of Washington and Oregon. -- Note added 6/17/14 14:40"
 ,,Agency for Persons with Disabilities (APD) -- Note added 2/25/15 15:33
-,", Alaska",Alaska Permanent Fund Corporation -- Note added 6/6/13 18:08
-"commission,public",", Arkansas",Arkansas Public Service Commission -- Note added 1/10/14 17:55
-"division,department,public,state",", Arkansas",ARBenefitsfor Arkansas State and Public School Plan MembersProvided by the Employee Benefit Division of the [Arkansas] Department of Finance & Administration -- Note added 12/10/14 6:24
-board,", Arkansas",Arkansas Fire Protection Licensing Board -- Note added 6/12/13 18:10
-national guard,", Arkansas",Arkansas National Guard -- Note added 1/23/14 13:42
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Arizona",Travel and Tourism Site for Arizona -- Note added 6/6/13 19:16
-lottery,", Arizona",Arizona lottery -- Note added 11/18/13 15:03
-,", Arizona","Arizona's Workforce Connection!, a website of the Governor's Council on Workforce Policy developed to provide easy access to the workforce development system in Arizona. -- Note added 11/18/13 15:13"
-"division,tourism,commission,department",", Arkansas","Arkansas History Commission, a division of the Arkansas Department of Parks and Tourism -- Note added 12/10/14 6:32"
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Arkansas",Travel and Tourism Site for Arkansas -- Note added 6/6/13 19:23
-,", Arkansas",Arkansas Children's Trust Fund -- Note added 7/17/13 16:07
-"department education,department",", Arkansas",Arkansas Department of Education -- Note added 12/10/14 6:56
-economic development,", Arkansas",Arkansas Economic Development Coorporation (AEDC) -- Note added 1/24/14 14:36
-commission,", Arkansas",Arkansas Ethics Commission -- Note added 7/17/13 16:13
-"services,department,health",", Arkansas","ARKids First health insurance, Arkansas Department of Human Services -- Note added 1/10/14 19:17"
-commission,", Arkansas",Arkansas Livestock and Poultry Commission -- Note added 7/17/13 16:14
-"board,state",", Arkansas",Arkansas State Medical Board -- Note added 7/17/13 17:16
-"board,state board,state",", Arkansas",Arkansas State Board of Optometry -- Note added 11/18/13 15:44
-"board,state board,state",", Arkansas",Arkansas State Board of Physical Therapy -- Note added 11/18/13 15:45
-"board,state board,state",", Arkansas",Arkansas State Board of Collection Agencies -- Note added 11/18/13 15:45
-"authority,state",", Alabama","Alabama State Port Authority, Mobile, AL -- Note added 6/12/13 17:16"
-office,", American Samoa",American Samoa Territorial Energy Office -- Note added 6/7/13 14:55
-"york state,site,public,state",", New York",New York State Public Service Commission‚Äôs Consumer Web Site -- Note added 1/10/14 19:17
-state,", California","California State Assembly Democratic Caucus, State of California -- Note added 6/6/13 18:08"
+,Alaska,Alaska Permanent Fund Corporation -- Note added 6/6/13 18:08
+"public,commission",Arkansas,Arkansas Public Service Commission -- Note added 1/10/14 17:55
+"department,state,division,public",Arkansas,ARBenefitsfor Arkansas State and Public School Plan MembersProvided by the Employee Benefit Division of the [Arkansas] Department of Finance & Administration -- Note added 12/10/14 6:24
+board,Arkansas,Arkansas Fire Protection Licensing Board -- Note added 6/12/13 18:10
+national guard,Arkansas,Arkansas National Guard -- Note added 1/23/14 13:42
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Arizona,Travel and Tourism Site for Arizona -- Note added 6/6/13 19:16
+lottery,Arizona,Arizona lottery -- Note added 11/18/13 15:03
+,Arizona,"Arizona's Workforce Connection!, a website of the Governor's Council on Workforce Policy developed to provide easy access to the workforce development system in Arizona. -- Note added 11/18/13 15:13"
+"tourism,division,department,commission",Arkansas,"Arkansas History Commission, a division of the Arkansas Department of Parks and Tourism -- Note added 12/10/14 6:32"
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Arkansas,Travel and Tourism Site for Arkansas -- Note added 6/6/13 19:23
+,Arkansas,Arkansas Children's Trust Fund -- Note added 7/17/13 16:07
+"department education,department",Arkansas,Arkansas Department of Education -- Note added 12/10/14 6:56
+economic development,Arkansas,Arkansas Economic Development Coorporation (AEDC) -- Note added 1/24/14 14:36
+commission,Arkansas,Arkansas Ethics Commission -- Note added 7/17/13 16:13
+"services,health,department",Arkansas,"ARKids First health insurance, Arkansas Department of Human Services -- Note added 1/10/14 19:17"
+commission,Arkansas,Arkansas Livestock and Poultry Commission -- Note added 7/17/13 16:14
+"board,state",Arkansas,Arkansas State Medical Board -- Note added 7/17/13 17:16
+"board,state,state board",Arkansas,Arkansas State Board of Optometry -- Note added 11/18/13 15:44
+"board,state,state board",Arkansas,Arkansas State Board of Physical Therapy -- Note added 11/18/13 15:45
+"board,state,state board",Arkansas,Arkansas State Board of Collection Agencies -- Note added 11/18/13 15:45
+"state,authority",Alabama,"Alabama State Port Authority, Mobile, AL -- Note added 6/12/13 17:16"
+office,American Samoa,American Samoa Territorial Energy Office -- Note added 6/7/13 14:55
+"site,state,public,york state",New York,New York State Public Service Commission‚Äôs Consumer Web Site -- Note added 1/10/14 19:17
+state,California,"California State Assembly Democratic Caucus, State of California -- Note added 6/6/13 18:08"
 authority,,Assistive Technology Loan Fund Authority. The authority offers low interest loans for a variety of special equipment to eligible applicants. See the establishing law at http://law.lis.virginia.gov/authorities/assistive-technology-loan-fund-authority-atlfa  -- Note added 7/23/14 15:46
-"board,health",", Arizona",Arizona Board of Behavioral Health Examiners -- Note added 12/11/13 13:50
-authority,", Arizona",Arizona Commerce Authority -- Note added 12/11/13 13:50
-"board,state board,state",", Arizona",Arizona State Board of Dental Examiners -- Note added 12/11/13 13:50
-state,", Arizona",Arizona State Parks -- Note added 12/11/13 13:51
-"carolina,department,north,department cultural resources,carolina department",", North Carolina","USS North Carolina Battleship, North Carolina Department of Cultural Resources -- Note added 3/20/14 17:19"
-,", Washington","Village of Baxter Estates, Port Washington, NY -- Note added 6/8/15 12:11"
-"carolina,board,north",", North Carolina",North Carolina Board of Massage & Bodywork Therapy -- Note added 9/11/15 18:20
+"board,health",Arizona,Arizona Board of Behavioral Health Examiners -- Note added 12/11/13 13:50
+authority,Arizona,Arizona Commerce Authority -- Note added 12/11/13 13:50
+"board,state,state board",Arizona,Arizona State Board of Dental Examiners -- Note added 12/11/13 13:50
+state,Arizona,Arizona State Parks -- Note added 12/11/13 13:51
+"department,carolina,department cultural resources,north,carolina department",North Carolina,"USS North Carolina Battleship, North Carolina Department of Cultural Resources -- Note added 3/20/14 17:19"
+,Washington,"Village of Baxter Estates, Port Washington, NY -- Note added 6/8/15 12:11"
+"carolina,board,north",North Carolina,North Carolina Board of Massage & Bodywork Therapy -- Note added 9/11/15 18:20
 nc,,NC museum of natural sciences  -- Note added 9/11/15 18:50
-state,", Connecticut",State of Connecticut Bonds -- Note added 6/27/13 19:52
-state,", California","California Humanities is an independent non-profit partner of the National Endowment for the Humanities,  nthat promotes the humanities in California in order to help create &ldquo;a state of open mind.' -- Note added 3/10/15 15:07"
-"office,state",", California","CaliforniaVolunteers, the state office that manages programs and initiatives aimed at increasing the number of Californians engaged in service and volunteering -- Note added 11/22/13 14:11"
+state,Connecticut,State of Connecticut Bonds -- Note added 6/27/13 19:52
+state,California,"California Humanities is an independent non-profit partner of the National Endowment for the Humanities,  nthat promotes the humanities in California in order to help create &ldquo;a state of open mind.' -- Note added 3/10/15 15:07"
+"state,office",California,"CaliforniaVolunteers, the state office that manages programs and initiatives aimed at increasing the number of Californians engaged in service and volunteering -- Note added 11/22/13 14:11"
 state,,CA State Independent Living Counsel advocates for persons with disabilities to enable them to live independently. n  -- Note added 3/5/15 22:35
-state,", California",California State Teachers Retirement System -- Note added 3/9/15 15:17
-state,", Nebraska",Nebraska State Capitol -- Note added 12/6/13 19:48
-"division,nc,state",,"Caswell Developmental Center, NC Division of State Operated Healthcare Facilities -- Note added 6/6/13 18:08"
-"public health,public,department,health",", California","California Environmental Health Tracking Program, California Department of Public Health -- Note added 10/24/14 12:09"
-,", Kentucky",Univ of Kentucky Extension website -- Note added 8/27/15 16:14
-state,", Hawaii, American Samoa, Guam","Hawaii-Pacific Area Combined Federal Campaign - geographic area includes the State of Hawaii, Guam, Northern Marianas Islands, and American Samoa -- Note added 6/12/13 13:14"
-,", Indiana","Tristate CFC, Indiana -- Note added 8/27/15 14:19"
-"carolina,north",", North Carolina","College Foundation of North Carolina, a¬†service of the State¬†of North Carolina -- Note added 7/24/13 16:09"
+state,California,California State Teachers Retirement System -- Note added 3/9/15 15:17
+state,Nebraska,Nebraska State Capitol -- Note added 12/6/13 19:48
+"state,nc,division",,"Caswell Developmental Center, NC Division of State Operated Healthcare Facilities -- Note added 6/6/13 18:08"
+"public health,public,health,department",California,"California Environmental Health Tracking Program, California Department of Public Health -- Note added 10/24/14 12:09"
+,Kentucky,Univ of Kentucky Extension website -- Note added 8/27/15 16:14
+state,"American Samoa, Hawaii, Guam","Hawaii-Pacific Area Combined Federal Campaign - geographic area includes the State of Hawaii, Guam, Northern Marianas Islands, and American Samoa -- Note added 6/12/13 13:14"
+,Indiana,"Tristate CFC, Indiana -- Note added 8/27/15 14:19"
+"carolina,north",North Carolina,"College Foundation of North Carolina, a¬†service of the State¬†of North Carolina -- Note added 7/24/13 16:09"
 ,,"Chesapeake Bay Program, Restoration of the Chesapeake Bay http://www.chesapeakebay.net -- Note added 11/20/13 16:26"
-health,", Pennsylvania",Pennsylvania's Children's Health Insurance Program (CHIP) -- Note added 6/6/13 18:08
-"economic development,department",", Maryland",Maryland Department of Business and Economic Development -- Note added 1/10/14 19:17
-,", Connecticut",Connecticut Historical SocietyMuseum and Library -- Note added 12/15/14 6:22
+health,Pennsylvania,Pennsylvania's Children's Health Insurance Program (CHIP) -- Note added 6/6/13 18:08
+"economic development,department",Maryland,Maryland Department of Business and Economic Development -- Note added 1/10/14 19:17
+,Connecticut,Connecticut Historical SocietyMuseum and Library -- Note added 12/15/14 6:22
 nc,,"statesville, nc -- Note added 9/11/15 19:22"
 ,,"Clemson Univ, Sc -- Note added 8/28/15 13:40"
-commission,", Arkansas",Arkansas Commission on Law Enforcement Standards and Training -- Note added 7/17/13 18:34
-department,", Alabama","Coliseum Boulevard Plume (CBP), an area in Montgomery, Alabama, where the groundwater 10-50 feet below land surface contains trichloroethylene (TCE).  Investigation, management, and cleanup of the groundwater is being conducted by the https://www.dot.state.al.us/ Alabama Department of Transportation (ALDOT). -- Note added 9/24/14 16:14"
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Colorado",Travel and Tourism Site for Colorado -- Note added 6/6/13 19:23
-lottery,", Colorado",Colorado lottery -- Note added 6/12/13 14:06
-"public,commission,site",", Colorado","Colorado No Call program. A private company, Data Protection Group, operates this site under contract with the Colorado Public Utilities Commission. -- Note added 7/11/14 5:54"
-,", Colorado","Upper Colorado River Endangered Fish Recovery Program, U.S. Fish and Wildlife Service -- Note added 7/23/14 13:45"
-"carolina,north",", North Carolina",North Carolina DOT Complete Streets -- Note added 1/22/14 18:53
-"carolina,department,north,public,carolina department",", North Carolina","Correction Enterprises, North Carolina Department of Public Safety -- Note added 7/24/13 14:00"
-board,", Louisiana",Louisiana Crawfish Promotion and Research Board (LCPRB) -- Note added 9/22/15 16:53
-,", Georgia",Georgia Superior Courts -- Note added 8/25/15 14:44
-state,", Connecticut",Connecticut State Treasury Unclaimed Property Owners List -- Note added 12/15/14 6:38
-state,", New York","Center for Technology at the University at Albany, State University of New York -- Note added 6/29/15 15:02"
-lottery,", Connecticut",Connecticut lottery -- Note added 6/12/13 14:06
-state,", Connecticut",Connecticut State Library -- Note added 7/26/13 16:15
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Connecticut",Travel and Tourism Site for Connecticut -- Note added 6/6/13 19:28
+commission,Arkansas,Arkansas Commission on Law Enforcement Standards and Training -- Note added 7/17/13 18:34
+department,Alabama,"Coliseum Boulevard Plume (CBP), an area in Montgomery, Alabama, where the groundwater 10-50 feet below land surface contains trichloroethylene (TCE).  Investigation, management, and cleanup of the groundwater is being conducted by the https://www.dot.state.al.us/ Alabama Department of Transportation (ALDOT). -- Note added 9/24/14 16:14"
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Colorado,Travel and Tourism Site for Colorado -- Note added 6/6/13 19:23
+lottery,Colorado,Colorado lottery -- Note added 6/12/13 14:06
+"site,public,commission",Colorado,"Colorado No Call program. A private company, Data Protection Group, operates this site under contract with the Colorado Public Utilities Commission. -- Note added 7/11/14 5:54"
+,Colorado,"Upper Colorado River Endangered Fish Recovery Program, U.S. Fish and Wildlife Service -- Note added 7/23/14 13:45"
+"carolina,north",North Carolina,North Carolina DOT Complete Streets -- Note added 1/22/14 18:53
+"public,department,carolina,north,carolina department",North Carolina,"Correction Enterprises, North Carolina Department of Public Safety -- Note added 7/24/13 14:00"
+board,Louisiana,Louisiana Crawfish Promotion and Research Board (LCPRB) -- Note added 9/22/15 16:53
+,Georgia,Georgia Superior Courts -- Note added 8/25/15 14:44
+state,Connecticut,Connecticut State Treasury Unclaimed Property Owners List -- Note added 12/15/14 6:38
+state,New York,"Center for Technology at the University at Albany, State University of New York -- Note added 6/29/15 15:02"
+lottery,Connecticut,Connecticut lottery -- Note added 6/12/13 14:06
+state,Connecticut,Connecticut State Library -- Note added 7/26/13 16:15
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Connecticut,Travel and Tourism Site for Connecticut -- Note added 6/6/13 19:28
 ,,Clean Water Management Trust Fund  -- Note added 9/11/15 19:49
 state,,IL Secretary of State -- Note added 7/1/14 20:19
-national guard,", Delaware",Delaware National Guard -- Note added 1/23/14 14:03
-"division,department,nc,nc department",,"Division of Employment Security (DES), NC Department of Commerce (NCC) -- Note added 9/22/15 14:15"
-services,", Massachusetts","Massachusetts JobQuest, Massachusetts Deparment of Career Services -- Note added 12/17/14 15:04"
-"services,state",", Maine","About the Digital Maine Repository The Digital Maine Repository is one of several services of the Maine State Library to facilitate digitization of - and enhanced access to - collections related to Maine history, genealogy, culture and government. The repository was designed to host a variety of media including books, images, maps and documents, as well as audio and video collections.  -- Note added 12/8/16 22:08"
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Ohio",Travel and Tourism Site for Ohio -- Note added 6/6/13 19:30
-"carolina,travel tourism,tourism site,travel tourism site,tourism,site,travel",", South Carolina",Travel and Tourism Site for South Carolina -- Note added 6/6/13 19:30
-department,", Virginia",Virginia Department of Motor Vehicles -- Note added 6/6/14 20:27
-"department education,department",", American Samoa",American Samoa Department of Education -- Note added 4/4/14 10:58
+national guard,Delaware,Delaware National Guard -- Note added 1/23/14 14:03
+"nc department,department,division,nc",,"Division of Employment Security (DES), NC Department of Commerce (NCC) -- Note added 9/22/15 14:15"
+services,Massachusetts,"Massachusetts JobQuest, Massachusetts Deparment of Career Services -- Note added 12/17/14 15:04"
+"services,state",Maine,"About the Digital Maine Repository The Digital Maine Repository is one of several services of the Maine State Library to facilitate digitization of - and enhanced access to - collections related to Maine history, genealogy, culture and government. The repository was designed to host a variety of media including books, images, maps and documents, as well as audio and video collections.  -- Note added 12/8/16 22:08"
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Ohio,Travel and Tourism Site for Ohio -- Note added 6/6/13 19:30
+"tourism,travel tourism,site,travel tourism site,carolina,travel,tourism site",South Carolina,Travel and Tourism Site for South Carolina -- Note added 6/6/13 19:30
+department,Virginia,Virginia Department of Motor Vehicles -- Note added 6/6/14 20:27
+"department education,department",American Samoa,American Samoa Department of Education -- Note added 4/4/14 10:58
 nc,,NC Dept of Revenue -- Note added 9/11/15 19:50
-"carolina,carolina department,department,north",", North Carolina","Driving95 Corridor Planning and Finance Study website, North Carolina Department of Transportation (NCDOT) -- Note added 9/22/15 16:56"
-national guard,", Wisconsin",Wisconsin National Guard Drug Control Program -- Note added 1/23/14 14:03
+"carolina,carolina department,north,department",North Carolina,"Driving95 Corridor Planning and Finance Study website, North Carolina Department of Transportation (NCDOT) -- Note added 9/22/15 16:56"
+national guard,Wisconsin,Wisconsin National Guard Drug Control Program -- Note added 1/23/14 14:03
 site,,myeatsmartmovemore.com is the 'consumer' site and eatsmartmovemorenc.com is the 'program' site. -- Note added 7/24/13 16:22
 board,,Educational Communications Board of WI -- Note added 8/5/14 5:24
-"board,state",", Pennsylvania","Environmental Hearing Board, State of Pennsylvania -- Note added 11/19/13 12:52"
+"board,state",Pennsylvania,"Environmental Hearing Board, State of Pennsylvania -- Note added 11/19/13 12:52"
 health,,Environmental Health Officer Professional Advisory Committee -- Note added 6/14/13 19:13
-"office,state",", Virginia",Virginia Office of the State Long-Term Care Ombudsman -- Note added 8/27/15 15:01
-state,", Washington",Washington State University ExtensionEnergy Program -- Note added 11/20/14 7:13
+"state,office",Virginia,Virginia Office of the State Long-Term Care Ombudsman -- Note added 8/27/15 15:01
+state,Washington,Washington State University ExtensionEnergy Program -- Note added 11/20/14 7:13
 division,,"The Energy Section in the Division of Energy, Mineral and Land Resources  -- Note added 9/11/15 19:55"
-"tourism,office",", Illinois",Illinois Office of Tourism -- Note added 7/1/14 20:35
+"tourism,office",Illinois,Illinois Office of Tourism -- Note added 7/1/14 20:35
 nc,,environmental help website of NC -- Note added 9/11/15 19:56
-,", Nebraska",Nebraska Environmental Trust -- Note added 12/6/13 19:52
+,Nebraska,Nebraska Environmental Trust -- Note added 12/6/13 19:52
 site,,This is a site of the east-west gateway Council of Government in the bi-state St. Louis area. -- Note added 10/1/15 20:20
 ,,Executive Action Team (EXACT) Multilateral Working Group on Water Resources -- Note added 8/19/13 16:18
-"tourism site,travel tourism,travel tourism site,tourism,site,travel,state",", Washington",Travel and tourism site for Washington State -- Note added 6/6/13 19:36
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Georgia",Travel and Tourism Site for Georgia -- Note added 6/6/13 19:36
-"tourism site,travel tourism,travel tourism site,tourism,site,travel,state",", Minnesota",Travel and tourism site for state of Minnesota hosted by Explore Minnesota Tourism -- Note added 4/26/15 2:33
-,", Virginia",Virginia Cooperative Extension  -- Note added 6/6/14 20:29
-"state university extension,state",", Washington",Washington State University Extension -- Note added 11/20/14 7:10
-,", Virginia, West Virginia",West Virginia University Extension Service -- Note added 7/24/14 5:33
-"state university extension,state",", Iowa",Iowa State University Extension -- Note added 8/25/15 20:26
-,", Illinois",University of Illinois Extension -- Note added 11/20/13 15:35
-cooperative extension service,", New Mexico",New Mexico Cooperative Extension Service -- Note added 7/25/13 17:39
-"state university extension,state",", Oregon",Oregon State University Extension Service -- Note added 6/20/14 16:52
+"tourism,travel tourism,site,travel tourism site,travel,state,tourism site",Washington,Travel and tourism site for Washington State -- Note added 6/6/13 19:36
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Georgia,Travel and Tourism Site for Georgia -- Note added 6/6/13 19:36
+"tourism,travel tourism,site,travel tourism site,travel,state,tourism site",Minnesota,Travel and tourism site for state of Minnesota hosted by Explore Minnesota Tourism -- Note added 4/26/15 2:33
+,Virginia,Virginia Cooperative Extension  -- Note added 6/6/14 20:29
+"state university extension,state",Washington,Washington State University Extension -- Note added 11/20/14 7:10
+,"Virginia, West Virginia",West Virginia University Extension Service -- Note added 7/24/14 5:33
+"state university extension,state",Iowa,Iowa State University Extension -- Note added 8/25/15 20:26
+,Illinois,University of Illinois Extension -- Note added 11/20/13 15:35
+cooperative extension service,New Mexico,New Mexico Cooperative Extension Service -- Note added 7/25/13 17:39
+"state university extension,state",Oregon,Oregon State University Extension Service -- Note added 6/20/14 16:52
 state,,Penn State Extension -- Note added 9/30/14 13:18
-,", Indiana",Purdue (Indiana) Cooperative Extension -- Note added 7/19/13 13:34
-cooperative extension service,", Delaware",University of Delaware Cooperative Extension Service -- Note added 6/7/13 16:52
-,", Maine",Univ of Maine extension -- Note added 8/27/15 18:13
-,", Minnesota",University of Minnesota Extension -- Note added 12/6/13 16:23
+,Indiana,Purdue (Indiana) Cooperative Extension -- Note added 7/19/13 13:34
+cooperative extension service,Delaware,University of Delaware Cooperative Extension Service -- Note added 6/7/13 16:52
+,Maine,Univ of Maine extension -- Note added 8/27/15 18:13
+,Minnesota,University of Minnesota Extension -- Note added 12/6/13 16:23
 ,,Univ of NH -- Note added 8/28/15 18:52
-,", Nebraska",University of Nebraska&ndash;Lincoln Extension -- Note added 11/20/13 19:17
-"state university extension,state",", Utah",Utah State University extension -- Note added 8/21/14 5:14
+,Nebraska,University of Nebraska&ndash;Lincoln Extension -- Note added 11/20/13 19:17
+"state university extension,state",Utah,Utah State University extension -- Note added 8/21/14 5:14
 state,,OK State Family & Consumer website -- Note added 8/28/15 16:47
-"office,board,commission",", Florida","The Florida Commission on the Status of Women - The Florida Commission on the Status of Women is a nonpartisan board, statutorily created in 1991, consisting of 22 appointed members. The Commission is administratively housed in the Office of the Attorney General. -- Note added 7/9/15 14:45"
+"board,office,commission",Florida,"The Florida Commission on the Status of Women - The Florida Commission on the Status of Women is a nonpartisan board, statutorily created in 1991, consisting of 22 appointed members. The Commission is administratively housed in the Office of the Attorney General. -- Note added 7/9/15 14:45"
 ,,SC film industry -- Note added 8/28/15 13:47
-commission,", Pennsylvania",Pennsylvania Fish and Boat Commission (PFBC) -- Note added 6/7/13 11:30
-lottery,", Florida",Florida lottery -- Note added 6/12/13 14:07
-,", Florida","Florida Courts - The mission of the judicial branch is to protect rights and liberties, uphold and interpret the law, and provide for the peaceful resolution of disputes. -- Note added 6/17/15 13:01"
-"department education,department",", Florida",Florida Department of Education -- Note added 6/17/15 13:06
-office,", Florida",Florida Governor's Office -- Note added 6/6/13 18:08
-"services,office",", Florida","Florida Office of Financial Regulation - Key Function: provides regulatory oversight for Florida's financial services providers.  Mission: to protect the citizens of Florida, promote a safe and sound financial marketplace, and contribute to the growth of Florida's economy with smart, efficient and effective regulation of the financial services industry. -- Note added 6/17/15 13:13"
-office,", Florida",Florida Office of Insurance Regulation - To promote a stable and competitive insurance market for consumers. -- Note added 6/17/15 13:17
-"national guard,authority,office",", Florida",Florida National Guard Counterdrug.  n   Florida Counterdrup Program - Under this authority our office provides oversight of the FLARNG and FLANG Substance Abuse Prevention Programs.      -- Note added 6/17/15 13:20
-commission,", Florida",Florida Fish and Wildlife Conservation Commission -- Note added 7/8/14 12:46
-,", Florida",Florida re-districting website.  House Speaker Will Weatherford and Senate President Don Gaetz called a special session from August 7-15 to amend Congressional Districts 5 and 10 consistent with the Final Judgment issued by the circuit court in Romo v. Detzner and to make conforming changes to districts that are a direct result of the changes to Congressional Districts 5 and 10. -- Note added 6/23/15 18:02
-"public health,health,department,public",", Florida","Florida Environmental Public Health Tracking, Florida Department of Health This web portal was supported by Cooperative Agreement Number 5U38EH000941 from the Centers for Disease Control and Prevention. Its contents are solely the responsibility of the authors (FL Tracking Team) and do not necessarily represent the official views of the Centers for Disease Control and Prevention. -- Note added 7/9/15 15:15"
-state,", Florida","The state of Florida's Unclaimed Property, Florida Treasure Hunt. -- Note added 6/6/13 18:08"
-,", Florida","Florida Water Permiting Portal This portal provides links to information about water resource permitting in Florida, and links to DEP and the water management districts to: n Apply for permits and other authorizations, including: n Environmental Resource Permits * (and authorizations to use state-owned submerged lands, where applicable) Consumptive and Water Use Permits Well Construction Permits Works of the District Permits    -- Note added 6/23/15 18:21"
-"department agriculture consumer,services,department",", Florida",Florida Department of Agriculture and Consumer Services -- Note added 1/10/14 19:03
-,", Federated States Of Micronesia",National Government of the Federated States of Micronesia -- Note added 6/12/13 13:58
-national guard,", Georgia",Georgia National Guard -- Note added 1/23/14 13:59
-"department education,department,state",", Georgia",State of Georgia Department of Education -- Note added 6/6/13 18:08
-lottery,", Georgia",Georgia lottery -- Note added 6/12/13 14:07
+commission,Pennsylvania,Pennsylvania Fish and Boat Commission (PFBC) -- Note added 6/7/13 11:30
+lottery,Florida,Florida lottery -- Note added 6/12/13 14:07
+,Florida,"Florida Courts - The mission of the judicial branch is to protect rights and liberties, uphold and interpret the law, and provide for the peaceful resolution of disputes. -- Note added 6/17/15 13:01"
+"department education,department",Florida,Florida Department of Education -- Note added 6/17/15 13:06
+office,Florida,Florida Governor's Office -- Note added 6/6/13 18:08
+"services,office",Florida,"Florida Office of Financial Regulation - Key Function: provides regulatory oversight for Florida's financial services providers.  Mission: to protect the citizens of Florida, promote a safe and sound financial marketplace, and contribute to the growth of Florida's economy with smart, efficient and effective regulation of the financial services industry. -- Note added 6/17/15 13:13"
+office,Florida,Florida Office of Insurance Regulation - To promote a stable and competitive insurance market for consumers. -- Note added 6/17/15 13:17
+"national guard,office,authority",Florida,Florida National Guard Counterdrug.  n   Florida Counterdrup Program - Under this authority our office provides oversight of the FLARNG and FLANG Substance Abuse Prevention Programs.      -- Note added 6/17/15 13:20
+commission,Florida,Florida Fish and Wildlife Conservation Commission -- Note added 7/8/14 12:46
+,Florida,Florida re-districting website.  House Speaker Will Weatherford and Senate President Don Gaetz called a special session from August 7-15 to amend Congressional Districts 5 and 10 consistent with the Final Judgment issued by the circuit court in Romo v. Detzner and to make conforming changes to districts that are a direct result of the changes to Congressional Districts 5 and 10. -- Note added 6/23/15 18:02
+"public health,department,health,public",Florida,"Florida Environmental Public Health Tracking, Florida Department of Health This web portal was supported by Cooperative Agreement Number 5U38EH000941 from the Centers for Disease Control and Prevention. Its contents are solely the responsibility of the authors (FL Tracking Team) and do not necessarily represent the official views of the Centers for Disease Control and Prevention. -- Note added 7/9/15 15:15"
+state,Florida,"The state of Florida's Unclaimed Property, Florida Treasure Hunt. -- Note added 6/6/13 18:08"
+,Florida,"Florida Water Permiting Portal This portal provides links to information about water resource permitting in Florida, and links to DEP and the water management districts to: n Apply for permits and other authorizations, including: n Environmental Resource Permits * (and authorizations to use state-owned submerged lands, where applicable) Consumptive and Water Use Permits Well Construction Permits Works of the District Permits    -- Note added 6/23/15 18:21"
+"services,department agriculture consumer,department",Florida,Florida Department of Agriculture and Consumer Services -- Note added 1/10/14 19:03
+,Federated States Of Micronesia,National Government of the Federated States of Micronesia -- Note added 6/12/13 13:58
+national guard,Georgia,Georgia National Guard -- Note added 1/23/14 13:59
+"department education,state,department",Georgia,State of Georgia Department of Education -- Note added 6/6/13 18:08
+lottery,Georgia,Georgia lottery -- Note added 6/12/13 14:07
 ,,GA Do Not Call List. GA Dept of Law. Consumer Protection Unit.  -- Note added 8/25/15 15:32
-state,", Georgia",Georgia State Defense Force -- Note added 1/23/14 14:03
-"public,state",", Georgia",Georgia State Defense Force public beta domain. Crosslinked with gasdf.us email domain.
-"public,state",", Georgia",Georgia State Defense Force email domain. Referenced on https://directory.doas.ga.gov/. Not in use as a public website.
-"department,office,department education,board,state board,state",", Mississippi","GEAR UP Mississippi operates as part of the Institutions of Higher Learning, Office of Academic and Student Affairs in collaboration with the Mississippi Department of Education, State Board for Community and Junior Colleges and community and national partners. Funding is provided by the United States Department of Education. -- Note added 7/23/14 17:21"
+state,Georgia,Georgia State Defense Force -- Note added 1/23/14 14:03
+"state,public",Georgia,Georgia State Defense Force public beta domain. Crosslinked with gasdf.us email domain.
+"state,public",Georgia,Georgia State Defense Force email domain. Referenced on https://directory.doas.ga.gov/. Not in use as a public website.
+"department education,department,state,office,state board,board",Mississippi,"GEAR UP Mississippi operates as part of the Institutions of Higher Learning, Office of Academic and Student Affairs in collaboration with the Mississippi Department of Education, State Board for Community and Junior Colleges and community and national partners. Funding is provided by the United States Department of Education. -- Note added 7/23/14 17:21"
 national guard,,Lousiana National Guard -- Note added 1/22/14 19:28
-,", New Mexico",New Mexico Bureau of Geology & Mineral Resources -- Note added 7/16/14 5:13
-commission,", Georgia",The Georgia Civil War Commission -- Note added 8/25/15 15:31
-,", Georgia",The Georgia Fiscal Management Council    -- Note added 8/25/15 15:30
-,", Georgia",Georgia Trust (Preservation Committee) -- Note added 8/25/15 15:28
+,New Mexico,New Mexico Bureau of Geology & Mineral Resources -- Note added 7/16/14 5:13
+commission,Georgia,The Georgia Civil War Commission -- Note added 8/25/15 15:31
+,Georgia,The Georgia Fiscal Management Council    -- Note added 8/25/15 15:30
+,Georgia,Georgia Trust (Preservation Committee) -- Note added 8/25/15 15:28
 office,,Governor's Office of Homeland Security and Emergency Preparedness -- Note added 1/10/14 19:17
-commission,", Oregon",Oregon Student Access Commission -- Note added 1/10/14 19:17
+commission,Oregon,Oregon Student Access Commission -- Note added 1/10/14 19:17
 ,,Ga National Fair Grounds and Agricenter -- Note added 8/25/15 15:27
-commission,", Georgia",Georgia Commission on Dispute Resolution -- Note added 12/5/13 14:15
-"tourism site,travel tourism,travel tourism site,tourism,site,authority,travel",", Hawaii","Hawaii Tourism Authority, Travel and Tourism Site for Hawaii -- Note added 2/10/15 14:00"
-,", Pennsylvania",Pennsylvania Fish and Boat Commission's Outdoor Shop -- Note added 6/7/13 11:34
-"carolina,services,department agriculture consumer,department,nc,north,carolina department",", North Carolina","Got to Be NC Agriculture, Goodness Grows in NC, North Carolina Department of Agriculture & Consumer Services -- Note added 6/28/13 16:56"
-"department,nc,nc department",,"Got To Be NC Festival, a production of the NC Department of Agriculture -- Note added 8/2/13 15:48"
-"division,office",", Arkansas",Consumer Protection Division of the Arkansas Attorney General's Office -- Note added 1/10/14 19:17
-office,", Northern Mariana Islands","Office of the Governor and Lt. Governor, Commonwealth of the Northern Mariana Islands plus *.gov.mp pattern for other government websites -- Note added 6/7/13 18:59"
+commission,Georgia,Georgia Commission on Dispute Resolution -- Note added 12/5/13 14:15
+"tourism,travel tourism,site,travel tourism site,travel,tourism site,authority",Hawaii,"Hawaii Tourism Authority, Travel and Tourism Site for Hawaii -- Note added 2/10/15 14:00"
+,Pennsylvania,Pennsylvania Fish and Boat Commission's Outdoor Shop -- Note added 6/7/13 11:34
+"department,carolina,north,services,department agriculture consumer,carolina department,nc",North Carolina,"Got to Be NC Agriculture, Goodness Grows in NC, North Carolina Department of Agriculture & Consumer Services -- Note added 6/28/13 16:56"
+"nc department,nc,department",,"Got To Be NC Festival, a production of the NC Department of Agriculture -- Note added 8/2/13 15:48"
+"office,division",Arkansas,Consumer Protection Division of the Arkansas Attorney General's Office -- Note added 1/10/14 19:17
+office,Northern Mariana Islands,"Office of the Governor and Lt. Governor, Commonwealth of the Northern Mariana Islands plus *.gov.mp pattern for other government websites -- Note added 6/7/13 18:59"
 ,,"*.gov.pr pattern for several Puerto Rican government agencies, such as https://www.google.com/#q=site:gov.pr  -- Note added 7/23/14 14:48"
 ,,*.gov.vi pattern for Virgin Island government sites -- Note added 6/7/13 18:57
-"services,department",", Virginia","Virginia Correctional Enterprises, a Department of Corrections work program to produce goods and services for agencies of the Commonwealth of Virginia  -- Note added 11/19/13 21:11"
-,", Mississippi","Governor Phil Bryant (Mississippi's 64th governor, 2012-) -- Note added 12/6/13 13:03"
+"services,department",Virginia,"Virginia Correctional Enterprises, a Department of Corrections work program to produce goods and services for agencies of the Commonwealth of Virginia  -- Note added 11/19/13 21:11"
+,Mississippi,"Governor Phil Bryant (Mississippi's 64th governor, 2012-) -- Note added 12/6/13 13:03"
 ,,Governor Morehead School for the Blind -- Note added 7/31/13 16:23
-"office,state",", Louisiana","Office of Group Benefits, State of Louisiana -- Note added 9/22/15 17:04"
-commission,", Georgia",Georgia Student Finance Commission -- Note added 8/25/15 15:25
-,", Guam",Guam Attorney General -- Note added 6/7/13 17:47
-,", Guam",Guam Legislature -- Note added 6/7/13 17:46
-department,", Guam",Guam Department of Revenue and Taxation -- Note added 6/7/13 17:56
-"commission,site",", Washington",Official site of the Washington Dairy Products Commission -- Note added 11/20/14 6:54
-"department education,department,state",", Hawaii",Hawaii State Department of Education -- Note added 6/6/13 18:08
+"state,office",Louisiana,"Office of Group Benefits, State of Louisiana -- Note added 9/22/15 17:04"
+commission,Georgia,Georgia Student Finance Commission -- Note added 8/25/15 15:25
+,Guam,Guam Attorney General -- Note added 6/7/13 17:47
+,Guam,Guam Legislature -- Note added 6/7/13 17:46
+department,Guam,Guam Department of Revenue and Taxation -- Note added 6/7/13 17:56
+"site,commission",Washington,Official site of the Washington Dairy Products Commission -- Note added 11/20/14 6:54
+"department education,state,department",Hawaii,Hawaii State Department of Education -- Note added 6/6/13 18:08
 ,,"Village of Hoffman Estates, IL -- Note added 7/2/14 18:35"
-,", Minnesota",Minnesota House of Representatives -- Note added 11/9/15 20:35
-,", New Mexico",Historical Society of New Mexico -- Note added 7/16/14 5:16
-"services,state",", Michigan",Michigan State Humanities and Social Services Online -- Note added 9/3/15 15:22
-state,", Hawaii",High Technology Development Corporation. HTDC 'is a state agency established by the Hawaii State Legislature in 1983 to facilitate the development and growth of Hawaii's commercial high technology industry.' -- Note added 6/12/13 13:21
+,Minnesota,Minnesota House of Representatives -- Note added 11/9/15 20:35
+,New Mexico,Historical Society of New Mexico -- Note added 7/16/14 5:16
+"services,state",Michigan,Michigan State Humanities and Social Services Online -- Note added 9/3/15 15:22
+state,Hawaii,High Technology Development Corporation. HTDC 'is a state agency established by the Hawaii State Legislature in 1983 to facilitate the development and growth of Hawaii's commercial high technology industry.' -- Note added 6/12/13 13:21
 "health,nc",,NC health and Wellness Trust fund -- Note added 9/11/15 20:19
-lottery,", Iowa",Iowa Lottery -- Note added 6/12/13 14:08
-,", Nebraska",University of Nebraska - Lincoln Extension publications -- Note added 11/20/13 19:14
-national guard,", Idaho",Idaho Army National Guard -- Note added 1/23/14 14:03
-lottery,", Idaho",Idaho Lottery -- Note added 6/12/13 14:09
-,", Idaho",IDeal - Idaho College Savings Program -- Note added 7/8/13 19:00
-services,", Indiana","Benefits Portal, http://www.in.gov/fssa/ Indiana Family and Social Services Administration -- Note added 11/20/13 19:35"
-"office,state",", Illinois",Office of the Illinois State Treasurer -- Note added 7/2/14 18:37
-lottery,", Illinois",Illinois Lottery -- Note added 6/12/13 14:09
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", New York",Travel and Tourism Site for New York -- Note added 6/6/13 19:12
-"carolina,health,north",", North Carolina","Inclusive Health, North Carolina Health Insurance Risk Pool, Inc. -- Note added 11/20/13 19:54"
-"public,state",", Washington",Innovate Washington is hereby created as a state agency exercising public and essential governmental functions. Innovate Washington is created as the successor to the Washington technology center and the Spokane intercollegiate research and technology institute (SIRTI). See http://apps.leg.wa.gov/RCW/default.aspx?cite=43.333&full=true  -- Note added 7/23/14 14:21
-"economic development authority,economic development,site,authority,public",", Guam",Guam Economic Development Authority (GEDA) web site. GEDA is an autonomous agency of the Government of Guam and a Guam public corporation. -- Note added 6/7/13 17:59
-board,", Montana",Montana Board of Investments -- Note added 11/21/13 14:44
-"economic development,authority,economic development authority",", Iowa",Iowa Economic Development Authority -- Note added 11/21/13 15:05
-,", Iowa, Oklahoma","Iowa Tribe of Oklahoma, Perkins, OK -- Note added 11/21/13 15:11"
-national guard,", Iowa",Iowa National Guard -- Note added 1/23/14 14:03
-state,", Iowa",Iowa State Fair -- Note added 6/12/13 18:48
-"division,carolina,health,north,public,public health,division public health",", North Carolina","The North Carolina Division of Public Health, Injury and Violence Prevention Branch, Youth Suicide Prevention Program works in collaboration with The North Carolina Youth Suicide Prevention Task Force to address youth suicide prevention in North Carolina. -- Note added 11/21/13 20:33"
+lottery,Iowa,Iowa Lottery -- Note added 6/12/13 14:08
+,Nebraska,University of Nebraska - Lincoln Extension publications -- Note added 11/20/13 19:14
+national guard,Idaho,Idaho Army National Guard -- Note added 1/23/14 14:03
+lottery,Idaho,Idaho Lottery -- Note added 6/12/13 14:09
+,Idaho,IDeal - Idaho College Savings Program -- Note added 7/8/13 19:00
+services,Indiana,"Benefits Portal, http://www.in.gov/fssa/ Indiana Family and Social Services Administration -- Note added 11/20/13 19:35"
+"state,office",Illinois,Office of the Illinois State Treasurer -- Note added 7/2/14 18:37
+lottery,Illinois,Illinois Lottery -- Note added 6/12/13 14:09
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",New York,Travel and Tourism Site for New York -- Note added 6/6/13 19:12
+"north,health,carolina",North Carolina,"Inclusive Health, North Carolina Health Insurance Risk Pool, Inc. -- Note added 11/20/13 19:54"
+"state,public",Washington,Innovate Washington is hereby created as a state agency exercising public and essential governmental functions. Innovate Washington is created as the successor to the Washington technology center and the Spokane intercollegiate research and technology institute (SIRTI). See http://apps.leg.wa.gov/RCW/default.aspx?cite=43.333&full=true  -- Note added 7/23/14 14:21
+"site,public,economic development,economic development authority,authority",Guam,Guam Economic Development Authority (GEDA) web site. GEDA is an autonomous agency of the Government of Guam and a Guam public corporation. -- Note added 6/7/13 17:59
+board,Montana,Montana Board of Investments -- Note added 11/21/13 14:44
+"economic development,economic development authority,authority",Iowa,Iowa Economic Development Authority -- Note added 11/21/13 15:05
+,"Iowa, Oklahoma","Iowa Tribe of Oklahoma, Perkins, OK -- Note added 11/21/13 15:11"
+national guard,Iowa,Iowa National Guard -- Note added 1/23/14 14:03
+state,Iowa,Iowa State Fair -- Note added 6/12/13 18:48
+"public health,division,public,carolina,division public health,north,health",North Carolina,"The North Carolina Division of Public Health, Injury and Violence Prevention Branch, Youth Suicide Prevention Program works in collaboration with The North Carolina Youth Suicide Prevention Task Force to address youth suicide prevention in North Carolina. -- Note added 11/21/13 20:33"
 site,,new jersey history site -- Note added 9/16/15 14:49
-"division,carolina,north,authority,state",", North Carolina",Julian F. Keith Alcohol and Drug Abuse Treatment Center. JFK ADATC operates under the authority of the State of North Carolina through the Division of State Operated Healthcare Facilities -- Note added 9/22/15 17:00
+"division,carolina,state,north,authority",North Carolina,Julian F. Keith Alcohol and Drug Abuse Treatment Center. JFK ADATC operates under the authority of the State of North Carolina through the Division of State Operated Healthcare Facilities -- Note added 9/22/15 17:00
 department,,Jobs4Jersey. NJ Department of Labor and Workforce Development. -- Note added 6/6/13 18:08
-,", Guam","Unified Courts of Guam, Guam Judiciary - www.justice.gov.gu -- Note added 6/7/13 17:57"
+,Guam,"Unified Courts of Guam, Guam Judiciary - www.justice.gov.gu -- Note added 6/7/13 17:57"
 "services,commission",,"Justice Administration Commission - The Justice Administrative Commission (JAC), created in 1965, provides administrative services on behalf of 49 judicial related entities. -- Note added 6/23/15 19:03"
-,", Kentucky",Kentucky Academic Advising Association -- Note added 1/3/14 13:19
-,", Kansas",Kansas Highway Patrol -- Note added 7/9/14 4:30
+,Kentucky,Kentucky Academic Advising Association -- Note added 1/3/14 13:19
+,Kansas,Kansas Highway Patrol -- Note added 7/9/14 4:30
 ,,kentucky center -- Note added 8/27/15 16:36
-national guard,", Kentucky",Kentucky National Guard -- Note added 1/23/14 14:03
+national guard,Kentucky,Kentucky National Guard -- Note added 1/23/14 14:03
 ,, kentucky housing corp -- Note added 8/27/15 16:37
-state,", Kentucky",Kentucky State Police -- Note added 6/12/13 18:09
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Kentucky",Travel and Tourism Site for Kentucky -- Note added 6/6/13 19:38
-authority,", Kentucky",Kentucky Higher Education Assistance Authority -- Note added 7/26/13 17:48
+state,Kentucky,Kentucky State Police -- Note added 6/12/13 18:09
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Kentucky,Travel and Tourism Site for Kentucky -- Note added 6/6/13 19:38
+authority,Kentucky,Kentucky Higher Education Assistance Authority -- Note added 7/26/13 17:48
 ,,Ky legislature -- Note added 8/27/15 16:39
-"board,state board,state",", Kansas",Kansas State Board of Healing Arts -- Note added 7/9/14 4:38
-"board,state board,state",", Kansas",Kansas State Board of Nursing -- Note added 7/9/14 4:39
-,", Kansas",Kansas Judicial Branch -- Note added 7/9/14 4:40
-department,", Kansas",Kansas Department of Transportation -- Note added 3/20/14 15:35
-,", Kansas",Kansas Historical Society -- Note added 7/9/14 4:41
-state,", Kansas",Kansas State Legislature -- Note added 7/9/14 4:42
-lottery,", Kansas",Kansas Lottery -- Note added 6/12/13 14:09
-department,", Kansas",Kansas Department of Revenue -- Note added 7/9/14 4:44
-"office,state",", Kansas","Office of the Secretary of State, State of Kansas -- Note added 7/23/14 15:51"
-department,", Kentucky",Kentucky Department of Agriculture -- Note added 7/5/13 17:39
+"board,state,state board",Kansas,Kansas State Board of Healing Arts -- Note added 7/9/14 4:38
+"board,state,state board",Kansas,Kansas State Board of Nursing -- Note added 7/9/14 4:39
+,Kansas,Kansas Judicial Branch -- Note added 7/9/14 4:40
+department,Kansas,Kansas Department of Transportation -- Note added 3/20/14 15:35
+,Kansas,Kansas Historical Society -- Note added 7/9/14 4:41
+state,Kansas,Kansas State Legislature -- Note added 7/9/14 4:42
+lottery,Kansas,Kansas Lottery -- Note added 6/12/13 14:09
+department,Kansas,Kansas Department of Revenue -- Note added 7/9/14 4:44
+"state,office",Kansas,"Office of the Secretary of State, State of Kansas -- Note added 7/23/14 15:51"
+department,Kentucky,Kentucky Department of Agriculture -- Note added 7/5/13 17:39
 ,,ky convention center  -- Note added 8/27/15 16:39
-board,", Kentucky",Kentucky Education Professional Standards Board -- Note added 7/5/13 17:38
+board,Kentucky,Kentucky Education Professional Standards Board -- Note added 7/5/13 17:38
 ,,KY expo center -- Note added 8/27/15 16:41
-lottery,", Kentucky",Kentucky Lottery -- Note added 6/12/13 14:10
+lottery,Kentucky,Kentucky Lottery -- Note added 6/12/13 14:10
 ,,KY Treasury -- Note added 8/27/15 16:42
-"board examiners,board",,LA Board of Examiners of Nursing Facility Administrators -- Note added 9/22/15 20:03
-board,", Louisiana",Louisiana Board of Massage Therapy -- Note added 11/12/15 17:36
-board,", Louisiana",Louisiana Board of Pharmacy -- Note added 8/24/15 14:41
-"board,state board,state",", Louisiana",Louisiana State Board of Social Work Examiners -- Note added 8/24/15 14:41
-"board,state board,state",", Louisiana", Louisiana State Board of Chiropractic Examiners -- Note added 8/24/15 14:42
-services,", Louisiana",The Council of Information Services Directors for Louisiana -- Note added 8/24/15 14:43
-"board examiners,board",", Louisiana",Louisiana Board of Examiners of Certified Shorthand Reporters -- Note added 9/23/15 12:16
-,", Louisiana",Louisiana Developmental Disabilities Council -- Note added 9/23/15 13:30
-"commission,department",", Louisiana","Louisiana Egg Commission, Louisiana Department of Agriculture & Forestry  -- Note added 9/23/15 14:53"
-board,", Louisiana",Louisiana Auctioneers Licensing Board -- Note added 9/23/15 16:37
-board,", Louisiana",Louisiana Professional Engineering and Land Surveying Board -- Note added 8/24/15 14:46
-board,", Louisiana",Louisiana Physical Therapy Board -- Note added 8/24/15 14:46
-,", Louisiana",Louisiana Supreme Court -- Note added 9/23/15 16:38
-"board,state board,state",", Louisiana",Louisiana State Board of Architectural Examiners -- Note added 1/14/14 14:13
-commission,", Louisiana",Louisiana Workforce Commission (LAWorks) -- Note added 9/23/15 16:41
-"board examiners,board",", Louisiana",Louisiana Board of Examiners in Dietetics and Nutrition  -- Note added 8/24/15 14:48
-board,", Louisiana",Louisiana board of speech language pathology -- Note added 8/24/15 14:51
-,", Virgin Islands",Legislature of the Virgin Islands -- Note added 8/18/14 14:07
-,", Kansas",League of Kansas Municipalities -- Note added 7/9/14 4:50
-"carolina,carolina department,department",", South Carolina","South Carolina Department of Labor, Licensing and Regulation -- Note added 1/17/14 15:50"
-,", Minnesota","League of Minnesota Cities Per the 'About the League' section of their website, LMC is 'a membership organization dedicated to promoting excellence in local government.'  -- Note added 4/26/15 4:37"
-,", Puerto Rico",Loter√É¬≠a Electr√É¬≥nica de Puerto Rico -- Note added 6/12/13 14:11
-authority,", Louisiana",Louisiana Community Development Authority -- Note added 9/23/15 12:18
-lottery,", Louisiana",Louisiana Lottery Corporation -- Note added 6/12/13 14:13
-"board,state",", Louisiana","Louisiana Seafood Board. In 1984, the State of Louisiana created the Louisiana Seafood Promotion & Marketing Board. For more information see https://www.legis.la.gov/legis/BoardMembers.aspx?boardId=355. -- Note added 11/12/15 15:08"
-commission,", Louisiana",Louisiana Tax Free Shopping Commission -- Note added 9/23/15 16:44
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Louisiana",Travel and Tourism Site for Louisiana -- Note added 6/6/13 19:40
-"board examiners,board",,Licensed Professional Counselors Board of Examiners -- Note added 8/24/15 14:53
-,", Louisiana",Police Jury Association of Louisiana -- Note added 7/23/13 19:36
-"board examiners,board",,LLPVRC Board of Examiners -- Note added 8/24/15 14:54
-"state board examiners,board examiners,board,state board,state",", Louisiana",Louisiana State Board of Examiners of Psychologists   -- Note added 8/24/15 14:55
-"state board examiners,board examiners,board,state board,state",", Louisiana",Louisiana State Board of Examiners for Sanitarians -- Note added 9/23/15 16:47
-"state board examiners,board examiners,board,state board,state",", Louisiana",Louisiana State Board of Examiners of Interior Designers -- Note added 9/23/15 16:48
-board,", Louisiana",Louisiana Board of Massage Therapy -- Note added 11/12/15 17:34
-"board,state board,state",", Louisiana",Louisiana State Board of Private Investigator Examiners -- Note added 8/24/15 14:55
-"board,state board,state",,LOUISIANA STATE BOARD OF PRACTICAL NURSE EXAMINERS -- Note added 8/24/15 14:56
-board,", Louisiana",Louisiana Board of Veterinary Medicine -- Note added 8/24/15 14:56
-board,", Louisiana",Louisiana Board of Drug and Device Distributors -- Note added 8/24/15 14:57
+"board,board examiners",,LA Board of Examiners of Nursing Facility Administrators -- Note added 9/22/15 20:03
+board,Louisiana,Louisiana Board of Massage Therapy -- Note added 11/12/15 17:36
+board,Louisiana,Louisiana Board of Pharmacy -- Note added 8/24/15 14:41
+"board,state,state board",Louisiana,Louisiana State Board of Social Work Examiners -- Note added 8/24/15 14:41
+"board,state,state board",Louisiana, Louisiana State Board of Chiropractic Examiners -- Note added 8/24/15 14:42
+services,Louisiana,The Council of Information Services Directors for Louisiana -- Note added 8/24/15 14:43
+"board,board examiners",Louisiana,Louisiana Board of Examiners of Certified Shorthand Reporters -- Note added 9/23/15 12:16
+,Louisiana,Louisiana Developmental Disabilities Council -- Note added 9/23/15 13:30
+"department,commission",Louisiana,"Louisiana Egg Commission, Louisiana Department of Agriculture & Forestry  -- Note added 9/23/15 14:53"
+board,Louisiana,Louisiana Auctioneers Licensing Board -- Note added 9/23/15 16:37
+board,Louisiana,Louisiana Professional Engineering and Land Surveying Board -- Note added 8/24/15 14:46
+board,Louisiana,Louisiana Physical Therapy Board -- Note added 8/24/15 14:46
+,Louisiana,Louisiana Supreme Court -- Note added 9/23/15 16:38
+"board,state,state board",Louisiana,Louisiana State Board of Architectural Examiners -- Note added 1/14/14 14:13
+commission,Louisiana,Louisiana Workforce Commission (LAWorks) -- Note added 9/23/15 16:41
+"board,board examiners",Louisiana,Louisiana Board of Examiners in Dietetics and Nutrition  -- Note added 8/24/15 14:48
+board,Louisiana,Louisiana board of speech language pathology -- Note added 8/24/15 14:51
+,Virgin Islands,Legislature of the Virgin Islands -- Note added 8/18/14 14:07
+,Kansas,League of Kansas Municipalities -- Note added 7/9/14 4:50
+"carolina,carolina department,department",South Carolina,"South Carolina Department of Labor, Licensing and Regulation -- Note added 1/17/14 15:50"
+,Minnesota,"League of Minnesota Cities Per the 'About the League' section of their website, LMC is 'a membership organization dedicated to promoting excellence in local government.'  -- Note added 4/26/15 4:37"
+,Puerto Rico,Loter√É¬≠a Electr√É¬≥nica de Puerto Rico -- Note added 6/12/13 14:11
+authority,Louisiana,Louisiana Community Development Authority -- Note added 9/23/15 12:18
+lottery,Louisiana,Louisiana Lottery Corporation -- Note added 6/12/13 14:13
+"board,state",Louisiana,"Louisiana Seafood Board. In 1984, the State of Louisiana created the Louisiana Seafood Promotion & Marketing Board. For more information see https://www.legis.la.gov/legis/BoardMembers.aspx?boardId=355. -- Note added 11/12/15 15:08"
+commission,Louisiana,Louisiana Tax Free Shopping Commission -- Note added 9/23/15 16:44
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Louisiana,Travel and Tourism Site for Louisiana -- Note added 6/6/13 19:40
+"board,board examiners",,Licensed Professional Counselors Board of Examiners -- Note added 8/24/15 14:53
+,Louisiana,Police Jury Association of Louisiana -- Note added 7/23/13 19:36
+"board,board examiners",,LLPVRC Board of Examiners -- Note added 8/24/15 14:54
+"board examiners,state,state board,board,state board examiners",Louisiana,Louisiana State Board of Examiners of Psychologists   -- Note added 8/24/15 14:55
+"board examiners,state,state board,board,state board examiners",Louisiana,Louisiana State Board of Examiners for Sanitarians -- Note added 9/23/15 16:47
+"board examiners,state,state board,board,state board examiners",Louisiana,Louisiana State Board of Examiners of Interior Designers -- Note added 9/23/15 16:48
+board,Louisiana,Louisiana Board of Massage Therapy -- Note added 11/12/15 17:34
+"board,state,state board",Louisiana,Louisiana State Board of Private Investigator Examiners -- Note added 8/24/15 14:55
+"board,state,state board",,LOUISIANA STATE BOARD OF PRACTICAL NURSE EXAMINERS -- Note added 8/24/15 14:56
+board,Louisiana,Louisiana Board of Veterinary Medicine -- Note added 8/24/15 14:56
+board,Louisiana,Louisiana Board of Drug and Device Distributors -- Note added 8/24/15 14:57
 ,,LSU Ag Center -- Note added 8/24/15 14:57
-,", Wisconsin",League of Wisconsin Municipalities -- Note added 8/5/14 6:00
+,Wisconsin,League of Wisconsin Municipalities -- Note added 8/5/14 6:00
 ,,maine history -- Note added 8/27/15 18:29
-"authority,state",,maine state housing authority -- Note added 8/27/15 18:30
-"lottery,state",", Maine",Maine State Lottery - www.mainelottery.com -- Note added 6/12/13 14:14
+"state,authority",,maine state housing authority -- Note added 8/27/15 18:30
+"lottery,state",Maine,Maine State Lottery - www.mainelottery.com -- Note added 6/12/13 14:14
 authority,,maine turnpike authority -- Note added 8/27/15 18:30
-,", Maryland",Comptroller of Maryland -- Note added 5/27/14 3:01
+,Maryland,Comptroller of Maryland -- Note added 5/27/14 3:01
 ,,Mass budget & policy Center -- Note added 8/26/15 16:11
 ,,Ma cultural Council -- Note added 8/26/15 16:11
 ,,Mass historical society -- Note added 8/26/15 16:12
 "lottery,state",,Massachuetts State Lottery -- Note added 6/12/13 14:14
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Massachusetts",Travel and Tourism Site for Massachusetts -- Note added 6/6/13 19:40
-state,", Montana","Montana Bureau of Mines and Geology, a nonregulatory state agency -- Note added 11/22/13 13:34"
-department,", Maryland","Maryland 511 Traveller Information, Maryland Department of Transportation -- Note added 1/26/15 12:49"
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Massachusetts,Travel and Tourism Site for Massachusetts -- Note added 6/6/13 19:40
+state,Montana,"Montana Bureau of Mines and Geology, a nonregulatory state agency -- Note added 11/22/13 13:34"
+department,Maryland,"Maryland 511 Traveller Information, Maryland Department of Transportation -- Note added 1/26/15 12:49"
 ,,maine development foundation -- Note added 8/27/15 18:31
-department,", Maryland",Maryland Department of Housing and Community Development -- Note added 6/6/13 18:08
-"office,state",", Maryland","Maryland Kids Page, Office of the Secretary of State -- Note added 6/6/13 18:08"
-lottery,", Maryland",Maryland Lottery -- Note added 6/12/13 14:14
-authority,", Maryland",Maryland Stadium Authority -- Note added 5/27/14 3:08
-department,", Mississippi","Mississippi Department of Wildlife, Fisheries, and Parks -- Note added 7/25/14 12:41"
+department,Maryland,Maryland Department of Housing and Community Development -- Note added 6/6/13 18:08
+"state,office",Maryland,"Maryland Kids Page, Office of the Secretary of State -- Note added 6/6/13 18:08"
+lottery,Maryland,Maryland Lottery -- Note added 6/12/13 14:14
+authority,Maryland,Maryland Stadium Authority -- Note added 5/27/14 3:08
+department,Mississippi,"Mississippi Department of Wildlife, Fisheries, and Parks -- Note added 7/25/14 12:41"
 ,,Municipal Employees' Retirement System -- Note added 9/3/15 15:37
-office,", Montana","Montana Guaranteed Student Loan Program (MGSLP), a program within the Office of the Commissioner of Higher Education -- Note added 11/22/13 13:35"
-"authority,health",", Alaska",Alaska Mental Health Trust Authority -- Note added 6/6/13 18:08
-"office,health",", Alaska",Alaska Mental Health Trust Land Office -- Note added 6/6/13 18:08
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Michigan",Travel and Tourism Site for Michigan -- Note added 6/6/13 19:41
+office,Montana,"Montana Guaranteed Student Loan Program (MGSLP), a program within the Office of the Commissioner of Higher Education -- Note added 11/22/13 13:35"
+"health,authority",Alaska,Alaska Mental Health Trust Authority -- Note added 6/6/13 18:08
+"office,health",Alaska,Alaska Mental Health Trust Land Office -- Note added 6/6/13 18:08
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Michigan,Travel and Tourism Site for Michigan -- Note added 6/6/13 19:41
 ,,michigan humanities council -- Note added 9/3/15 15:38
-lottery,", Michigan",Michigan Lottery -- Note added 12/17/14 12:25
-state,", Michigan",Michigan State Park and Harbor Reservations  -- Note added 9/3/15 15:41
-lottery,", Michigan",Michigan Lottery Connect (Blog) -- Note added 12/17/14 12:29
-national guard,", Michigan",Michigan National Guard -- Note added 1/23/14 14:03
-national guard,", Minnesota",Minnesota National Guard URL must have 'www' to resolve  -- Note added 4/26/15 5:37
-authority,", Mississippi",Mississippi Development Authority -- Note added 7/25/14 12:42
-state,", Mississippi",Campgrounds and Camping at Mississippi State Parks -- Note added 3/20/14 16:45
-,", Missouri","Missouri Center for the Books, an affiliate of the national Center for the Book in the Library of Congress, which was established by law in 1977 to strengthen and celebrate the vital role of books, reading, and libraries in the cultural life of the nation. -- Note added 1/13/14 19:38"
-division,", Missouri","MissouriFamilies is produced by the College of Human Environmental Sciences, Extension Division, University of Missouri -- Note added 1/10/14 19:17"
-,", Minnesota","Minnesota Association of Watershed Districts, Inc. Per the 'What is MAWD?' section of their website, 'the Minnesota Association of Watershed Districts provides educational opportunities, information and training for watershed district managers and staff through yearly tours, meetings and quarterly newsletters.' -- Note added 4/26/15 5:42"
-national guard,", Missouri",Missouri National Guard -- Note added 1/23/14 14:03
-lottery,", Missouri",Missouri Lottery -- Note added 6/12/13 14:15
-state,", Alabama",The Alabama State Treasury's official website for unclaimed property searches -- Note added 6/6/13 18:08
-"tourism,office,site,state",", Montana","Montana Kids, an official state site of the http://visitmt.com/ Montana Office of Tourism. -- Note added 11/22/13 13:38"
-lottery,", Montana",Montana Lottery -- Note added 6/12/13 14:15
-state,", Montana","Montana State Fund, created by the state legislature in 1990 to create a fair and equitable system of workers' compensation insurance. -- Note added 11/18/13 16:26"
+lottery,Michigan,Michigan Lottery -- Note added 12/17/14 12:25
+state,Michigan,Michigan State Park and Harbor Reservations  -- Note added 9/3/15 15:41
+lottery,Michigan,Michigan Lottery Connect (Blog) -- Note added 12/17/14 12:29
+national guard,Michigan,Michigan National Guard -- Note added 1/23/14 14:03
+national guard,Minnesota,Minnesota National Guard URL must have 'www' to resolve  -- Note added 4/26/15 5:37
+authority,Mississippi,Mississippi Development Authority -- Note added 7/25/14 12:42
+state,Mississippi,Campgrounds and Camping at Mississippi State Parks -- Note added 3/20/14 16:45
+,Missouri,"Missouri Center for the Books, an affiliate of the national Center for the Book in the Library of Congress, which was established by law in 1977 to strengthen and celebrate the vital role of books, reading, and libraries in the cultural life of the nation. -- Note added 1/13/14 19:38"
+division,Missouri,"MissouriFamilies is produced by the College of Human Environmental Sciences, Extension Division, University of Missouri -- Note added 1/10/14 19:17"
+,Minnesota,"Minnesota Association of Watershed Districts, Inc. Per the 'What is MAWD?' section of their website, 'the Minnesota Association of Watershed Districts provides educational opportunities, information and training for watershed district managers and staff through yearly tours, meetings and quarterly newsletters.' -- Note added 4/26/15 5:42"
+national guard,Missouri,Missouri National Guard -- Note added 1/23/14 14:03
+lottery,Missouri,Missouri Lottery -- Note added 6/12/13 14:15
+state,Alabama,The Alabama State Treasury's official website for unclaimed property searches -- Note added 6/6/13 18:08
+"site,tourism,state,office",Montana,"Montana Kids, an official state site of the http://visitmt.com/ Montana Office of Tourism. -- Note added 11/22/13 13:38"
+lottery,Montana,Montana Lottery -- Note added 6/12/13 14:15
+state,Montana,"Montana State Fund, created by the state legislature in 1990 to create a fair and equitable system of workers' compensation insurance. -- Note added 11/18/13 16:26"
 state,,Mountain State Combined Federal Campaign -- Note added 7/24/14 5:41
-state,", Mississippi","Mississippi Industries for the Blind, a state agency of Mississippi -- Note added 7/25/14 12:47"
-"board,state board,state",", Mississippi",Mississippi State Board of Contractors -- Note added 7/25/14 12:48
-commission,", Mississippi",Mississippi Athletic Commission -- Note added 7/25/14 12:49
-"commission,state",", Maryland",Maryland State Commission on Criminal Sentencing Policy -- Note added 5/27/14 3:25
-,", Mississippi",Mississippi Emergency Management Agency -- Note added 7/25/14 12:51
-,", Mississippi",Mississippi Home Corporation -- Note added 7/25/14 12:52
-"state university extension,state",", Mississippi",Mississippi State University Extension -- Note added 7/25/14 12:52
-"state university extension,state",", Michigan",Michigan State University Extension -- Note added 11/19/13 13:43
-"state university extension,state",", Montana",Montana State University Extension -- Note added 11/22/13 13:44
-"authority,department",", Montana","Montana Facility Finance Authority, MT Department of Commerce -- Note added 11/22/13 13:46"
-department,", Montana","Montana Finance Information Center, MT Department of Commerce -- Note added 11/22/13 13:55"
-lottery,", Arkansas",Arkansas Scholarship Lottery -- Note added 6/12/13 14:17
-state,", Florida",The official state portal of the State of Florida -- Note added 6/6/13 18:08
-"services,department",", Florida",Florida Department of Financial Services -- Note added 7/31/13 17:13
-office,", Florida",Florida Office of the Attorney General -- Note added 1/10/14 19:17
-health,", Florida",Developed by the Florida Attorney General and the Agency for Health Care Administration (AHCA) to help consumers shop for the lowest price in their area for their prescription drugs. -- Note added 1/10/14 19:17
-commission,", Florida",Florida Fish and Wildlife Conservation Commission -- Note added 7/7/14 12:02
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Northern Mariana Islands",Travel and Tourism Site for the Northern Mariana Islands -- Note added 6/6/13 19:42
-,", Virgin Islands","National Archives and Records Management Unit, Government of the Virgin Islands -- Note added 8/18/14 14:03"
+state,Mississippi,"Mississippi Industries for the Blind, a state agency of Mississippi -- Note added 7/25/14 12:47"
+"board,state,state board",Mississippi,Mississippi State Board of Contractors -- Note added 7/25/14 12:48
+commission,Mississippi,Mississippi Athletic Commission -- Note added 7/25/14 12:49
+"state,commission",Maryland,Maryland State Commission on Criminal Sentencing Policy -- Note added 5/27/14 3:25
+,Mississippi,Mississippi Emergency Management Agency -- Note added 7/25/14 12:51
+,Mississippi,Mississippi Home Corporation -- Note added 7/25/14 12:52
+"state university extension,state",Mississippi,Mississippi State University Extension -- Note added 7/25/14 12:52
+"state university extension,state",Michigan,Michigan State University Extension -- Note added 11/19/13 13:43
+"state university extension,state",Montana,Montana State University Extension -- Note added 11/22/13 13:44
+"department,authority",Montana,"Montana Facility Finance Authority, MT Department of Commerce -- Note added 11/22/13 13:46"
+department,Montana,"Montana Finance Information Center, MT Department of Commerce -- Note added 11/22/13 13:55"
+lottery,Arkansas,Arkansas Scholarship Lottery -- Note added 6/12/13 14:17
+state,Florida,The official state portal of the State of Florida -- Note added 6/6/13 18:08
+"services,department",Florida,Florida Department of Financial Services -- Note added 7/31/13 17:13
+office,Florida,Florida Office of the Attorney General -- Note added 1/10/14 19:17
+health,Florida,Developed by the Florida Attorney General and the Agency for Health Care Administration (AHCA) to help consumers shop for the lowest price in their area for their prescription drugs. -- Note added 1/10/14 19:17
+commission,Florida,Florida Fish and Wildlife Conservation Commission -- Note added 7/7/14 12:02
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Northern Mariana Islands,Travel and Tourism Site for the Northern Mariana Islands -- Note added 6/6/13 19:42
+,Virgin Islands,"National Archives and Records Management Unit, Government of the Virgin Islands -- Note added 8/18/14 14:03"
 nc,,NC Museum of Natural Sciences -- Note added 11/12/15 15:15
 nc,,NC Council on Developmental Disabilities -- Note added 1/14/14 14:15
-"carolina,lottery,north",", North Carolina",North Carolina Education Lottery -- Note added 6/12/13 14:18
-"office,nc,state",,NC State Construction Office -- Note added 9/16/15 13:21
-"carolina,commission,north",", North Carolina",North Carolina Alcoholic Beverage Control Commission -- Note added 9/11/15 20:30
+"carolina,lottery,north",North Carolina,North Carolina Education Lottery -- Note added 6/12/13 14:18
+"office,state,nc",,NC State Construction Office -- Note added 9/16/15 13:21
+"carolina,north,commission",North Carolina,North Carolina Alcoholic Beverage Control Commission -- Note added 9/11/15 20:30
 nc,,NC Agriculture Development & Farmland Preservation Trust Fund -- Note added 11/12/15 15:13
-"division,carolina,services,department agriculture consumer,department,north,carolina department",", North Carolina","Multi-Hazard Threat Database, Emergency Programs Division, North Carolina Department of Agriculture and Consumer Services -- Note added 7/26/13 15:42"
-"division,carolina,north",", North Carolina",North Carolina Division of Air Quality -- Note added 3/20/14 15:16
-"carolina,board,north",", North Carolina",The North Carolina Auctioneers board -- Note added 9/11/15 20:32
+"division,department,carolina,north,services,department agriculture consumer,carolina department",North Carolina,"Multi-Hazard Threat Database, Emergency Programs Division, North Carolina Department of Agriculture and Consumer Services -- Note added 7/26/13 15:42"
+"carolina,north,division",North Carolina,North Carolina Division of Air Quality -- Note added 3/20/14 15:16
+"carolina,board,north",North Carolina,The North Carolina Auctioneers board -- Note added 9/11/15 20:32
 nc,,NC Court System  -- Note added 9/11/15 20:32
 "board,nc",,NC appraisal board -- Note added 9/11/15 20:33
-"public,nc",,NC Triangle Public Access TV n  n  -- Note added 9/11/15 20:35
+"nc,public",,NC Triangle Public Access TV n  n  -- Note added 9/11/15 20:35
 nc,,NC Aquariums -- Note added 9/11/15 20:35
 nc,,NC Museum of Art -- Note added 9/11/15 20:36
-"carolina,north",", North Carolina",North Carolina Arts Council -- Note added 11/20/13 12:24
-"division,services,health,nc department,department,nc,department health human,public,department education,health human services",,"NC Assistive technology Program - Receives grant funding under Public Law 108-364  through the Rehabilitation Services Administration, U.S. Department of Education, and is administered by the N.C. Department of Health and Human Services, Division of Vocational Rehabilitation Services -- Note added 11/12/15 15:02"
-"office,nc,state",,NC Office of the State Auditor -- Note added 1/14/14 13:12
-"carolina,board,north",", North Carolina",North Carolina Board of Architecture -- Note added 9/11/15 20:37
+"carolina,north",North Carolina,North Carolina Arts Council -- Note added 11/20/13 12:24
+"health human services,department health human,department education,division,department,public,nc department,services,health,nc",,"NC Assistive technology Program - Receives grant funding under Public Law 108-364  through the Rehabilitation Services Administration, U.S. Department of Education, and is administered by the N.C. Department of Health and Human Services, Division of Vocational Rehabilitation Services -- Note added 11/12/15 15:02"
+"office,state,nc",,NC Office of the State Auditor -- Note added 1/14/14 13:12
+"carolina,board,north",North Carolina,North Carolina Board of Architecture -- Note added 9/11/15 20:37
 "board,nc",,NC Board of Athletic Trainers Examiners -- Note added 9/11/15 20:38
-"carolina,board,north",", North Carolina",North Carolina Board of Dietetics/Nutrition   -- Note added 9/11/15 20:38
-"board examiners,board,nc",,NC Board of Examiners of electrical contractors -- Note added 9/11/15 20:39
-"board examiners,board,nc",,NC Board of Examiners for engineers and surveyors -- Note added 9/11/15 20:40
+"carolina,board,north",North Carolina,North Carolina Board of Dietetics/Nutrition   -- Note added 9/11/15 20:38
+"board,board examiners,nc",,NC Board of Examiners of electrical contractors -- Note added 9/11/15 20:39
+"board,board examiners,nc",,NC Board of Examiners for engineers and surveyors -- Note added 9/11/15 20:40
 "board,nc",,NC Board of Nursing Homes Administrators -- Note added 9/11/15 20:41
 "board,services,nc",,NC Board of Funeral Services -- Note added 9/11/15 20:41
 "board,nc",,NC Board of Law Examiners -- Note added 9/14/15 20:44
-"carolina,board,north",", North Carolina",The North Carolina Board for the Licensing of Geologists  -- Note added 9/14/15 20:27
-"carolina,board,north",", North Carolina",The North Carolina Board of Licensed Professional Counselors -- Note added 9/14/15 20:28
-"carolina,north",", North Carolina",The North Carolina Soil Scientist Licensing Program -- Note added 9/14/15 20:28
-"board examiners,board,nc",,NC Board of Examiners for Speech Language and Pathologist & Audiologist n  -- Note added 9/14/15 20:30
+"carolina,board,north",North Carolina,The North Carolina Board for the Licensing of Geologists  -- Note added 9/14/15 20:27
+"carolina,board,north",North Carolina,The North Carolina Board of Licensed Professional Counselors -- Note added 9/14/15 20:28
+"carolina,north",North Carolina,The North Carolina Soil Scientist Licensing Program -- Note added 9/14/15 20:28
+"board,board examiners,nc",,NC Board of Examiners for Speech Language and Pathologist & Audiologist n  -- Note added 9/14/15 20:30
 "board,nc",,Welcome to the NC Board of Landscape Architects -- Note added 9/14/15 20:31
 "board,nc",,NC Board of Nursing -- Note added 9/14/15 20:31
 "board,nc",,NC Board of Pharmacy -- Note added 9/14/15 20:32
-"carolina,board,north",", North Carolina",The North Carolina Board of Occupational Therapy -- Note added 9/14/15 20:32
-"carolina,board,north,state",", North Carolina",The Board of Podiatry Examiners for the State of North Carolina  -- Note added 9/14/15 20:32
+"carolina,board,north",North Carolina,The North Carolina Board of Occupational Therapy -- Note added 9/14/15 20:32
+"carolina,board,state,north",North Carolina,The Board of Podiatry Examiners for the State of North Carolina  -- Note added 9/14/15 20:32
 nc,,NC Waste Management -- Note added 9/14/15 20:33
 nc,,nc business court -- Note added 9/14/15 20:33
 nc,,NC School bus Safety -- Note added 9/14/15 20:34
-"division,carolina,department,north,carolina department",", North Carolina","Rail Division, North Carolina Department of Transportation -- Note added 7/24/13 16:07"
-"carolina,board,north",", North Carolina",North Carolina Social Work Certification and Licensure Board -- Note added 9/22/15 14:10
-"carolina,north",", North Carolina","The North Carolina Center for Global Logistics is a collaborative effort between community colleges, universities, and industry partners focused on developing a highly trained workforce for the logistics and supply chain industry. -- Note added 9/14/15 20:47"
+"division,department,carolina,north,carolina department",North Carolina,"Rail Division, North Carolina Department of Transportation -- Note added 7/24/13 16:07"
+"carolina,board,north",North Carolina,North Carolina Social Work Certification and Licensure Board -- Note added 9/22/15 14:10
+"carolina,north",North Carolina,"The North Carolina Center for Global Logistics is a collaborative effort between community colleges, universities, and industry partners focused on developing a highly trained workforce for the logistics and supply chain industry. -- Note added 9/14/15 20:47"
 nc,,NC Child Support Enforcement -- Note added 9/14/15 20:36
-"carolina,board,north",", North Carolina",North Carolina Board of Chiropractic Examiners -- Note added 9/14/15 20:37
-"carolina,department,north,department cultural resources,carolina department",", North Carolina","North Carolina Civil War Sesquicentennial, North Carolina Department of Cultural Resources -- Note added 11/12/15 14:54"
-"division,nc",,NC Division of Coastal Management -- Note added 1/14/14 14:16
+"carolina,board,north",North Carolina,North Carolina Board of Chiropractic Examiners -- Note added 9/14/15 20:37
+"department,carolina,department cultural resources,north,carolina department",North Carolina,"North Carolina Civil War Sesquicentennial, North Carolina Department of Cultural Resources -- Note added 11/12/15 14:54"
+"nc,division",,NC Division of Coastal Management -- Note added 1/14/14 14:16
 nc,,"NC Coastal Reserve and National Estuarine Research Reserve, NC DEQ -- Note added 11/12/15 14:51"
-"carolina,office,north",", North Carolina",North Carolina Office of the Commissioner of Banks (NCCOB) -- Note added 11/19/13 18:51
-"carolina,carolina department,department,north",", North Carolina",North Carolina Department of Commerce -- Note added 7/24/13 16:42
+"carolina,office,north",North Carolina,North Carolina Office of the Commissioner of Banks (NCCOB) -- Note added 11/19/13 18:51
+"carolina,carolina department,north,department",North Carolina,North Carolina Department of Commerce -- Note added 7/24/13 16:42
 nc,,nc court system -- Note added 9/14/15 20:38
-"public,nc",,NC Dept of Public Safety -- Note added 9/14/15 20:39
-"department,nc,nc department",,N.C. Department of Environment and Natural Resources -- Note added 7/24/13 16:27
-"carolina,north,board,state board,state",", North Carolina",North Carolina State Board of Dental Examiners -- Note added 9/14/15 20:40
-"carolina,site,north",", North Carolina","This site is a tool for North Carolina citizens and providers to reduce the impact of diabetes through leadership, education, communication and community involvement. -- Note added 9/14/15 20:41"
-"carolina,office,nc,north",", North Carolina","The NC Helping Neighbors Fund is managed by the Governor's Office, in partnership with United Way of North Carolina. Donations are tax deductible; 100% of donated funds will go to the states impacted by Hurricane Sandy. -- Note added 9/14/15 20:48"
-"division,nc department public,nc department,department,nc,public",," Juvenile Justice section of the N.C. Department of Public Safety, Division of Adult Correction and Juvenile Justice.  -- Note added 9/15/15 16:00"
+"nc,public",,NC Dept of Public Safety -- Note added 9/14/15 20:39
+"nc department,nc,department",,N.C. Department of Environment and Natural Resources -- Note added 7/24/13 16:27
+"carolina,state,state board,north,board",North Carolina,North Carolina State Board of Dental Examiners -- Note added 9/14/15 20:40
+"site,north,carolina",North Carolina,"This site is a tool for North Carolina citizens and providers to reduce the impact of diabetes through leadership, education, communication and community involvement. -- Note added 9/14/15 20:41"
+"office,carolina,nc,north",North Carolina,"The NC Helping Neighbors Fund is managed by the Governor's Office, in partnership with United Way of North Carolina. Donations are tax deductible; 100% of donated funds will go to the states impacted by Hurricane Sandy. -- Note added 9/14/15 20:48"
+"division,public,department,nc department,nc department public,nc",," Juvenile Justice section of the N.C. Department of Public Safety, Division of Adult Correction and Juvenile Justice.  -- Note added 9/15/15 16:00"
 "division,nc",,"Division of Marine Fisheries, NC DENR -- Note added 11/12/15 14:07"
-"commission,nc",,NC Marine Fisheries Commission Store -- Note added 11/12/15 14:39
-"division,public,nc",,NC Division of Non Public Education -- Note added 9/15/15 16:01
-"carolina,carolina department,department,north",", North Carolina",North Carolina Department of Insurance -- Note added 11/19/13 20:06
+"nc,commission",,NC Marine Fisheries Commission Store -- Note added 11/12/15 14:39
+"public,nc,division",,NC Division of Non Public Education -- Note added 9/15/15 16:01
+"carolina,carolina department,north,department",North Carolina,North Carolina Department of Insurance -- Note added 11/19/13 20:06
 ,,Dept of Justice -- Note added 9/15/15 16:04
-"carolina,north",", North Carolina",North Carolina Drought Management Advisory Council -- Note added 11/12/15 14:05
-"division,nc",,NC DENR's Division of Waste Management -- Note added 11/12/15 13:55
-"carolina,office,north",", North Carolina",The North Carolina Office of EMS -- Note added 9/15/15 16:07
-"carolina,state,public,north",", North Carolina",The North Carolina Forest Service operates a system of six Educational State Forests (ESFs) designed to teach the public - especially school children - about the forest environment. -- Note added 9/15/15 16:34
+"carolina,north",North Carolina,North Carolina Drought Management Advisory Council -- Note added 11/12/15 14:05
+"nc,division",,NC DENR's Division of Waste Management -- Note added 11/12/15 13:55
+"carolina,office,north",North Carolina,The North Carolina Office of EMS -- Note added 9/15/15 16:07
+"carolina,state,north,public",North Carolina,The North Carolina Forest Service operates a system of six Educational State Forests (ESFs) designed to teach the public - especially school children - about the forest environment. -- Note added 9/15/15 16:34
 "division,nc",,"Facility Management Division, NC DOA -- Note added 11/12/15 13:45"
-"carolina,north",", North Carolina","North Carolina Farm Fresh is a directory of pick-your-own farms, roadside farm markets, and farmers markets throughout North Carolina. It is designed to help the consumer, find the freshest locally grown fruits, vegetables, christmas trees, ornamental plants, flowers, and herbs. -- Note added 9/15/15 16:34"
-"carolina,services,department agriculture consumer,department,nc,north,carolina department",", North Carolina","NC Farm to School program, North Carolina Department of Agriculture and Consumer Services -- Note added 6/12/13 18:34"
-"carolina,office,health,north",", North Carolina","North Carolina Farmworker Health Program (NCFHP), a statewide Migrant Health Voucher Program within the Office of Rural Health -- Note added 11/12/15 13:44"
+"carolina,north",North Carolina,"North Carolina Farm Fresh is a directory of pick-your-own farms, roadside farm markets, and farmers markets throughout North Carolina. It is designed to help the consumer, find the freshest locally grown fruits, vegetables, christmas trees, ornamental plants, flowers, and herbs. -- Note added 9/15/15 16:34"
+"department,carolina,north,services,department agriculture consumer,carolina department,nc",North Carolina,"NC Farm to School program, North Carolina Department of Agriculture and Consumer Services -- Note added 6/12/13 18:34"
+"carolina,office,health,north",North Carolina,"North Carolina Farmworker Health Program (NCFHP), a statewide Migrant Health Voucher Program within the Office of Rural Health -- Note added 11/12/15 13:44"
 "office,nc",,NC Film Office -- Note added 9/15/15 16:35
-"carolina,north",", North Carolina","Firewise North Carolina,¬†North Carolina Forest Service -- Note added 6/12/13 18:15"
+"carolina,north",North Carolina,"Firewise North Carolina,¬†North Carolina Forest Service -- Note added 6/12/13 18:15"
 division,,Division of Marine Fisheries  -- Note added 9/15/15 16:36
 nc,,NC flood risk information system -- Note added 9/15/15 16:37
 nc,,NC Foreclosure Prevention Fund -- Note added 11/12/15 13:43
-"carolina,north",", North Carolina","North Carolina Forest Action Plan, North Carolina Forest Service -- Note added 11/12/15 13:40"
-"carolina,north",", North Carolina",North Carolina Forest Action Plan See historical snapshot at: http://web.archive.org/web/20140517174935/http://ncforestassessment.com/  -- Note added 11/12/15 13:39
+"carolina,north",North Carolina,"North Carolina Forest Action Plan, North Carolina Forest Service -- Note added 11/12/15 13:40"
+"carolina,north",North Carolina,North Carolina Forest Action Plan See historical snapshot at: http://web.archive.org/web/20140517174935/http://ncforestassessment.com/  -- Note added 11/12/15 13:39
 "site,nc",,NC Fresh Produce Information site -- Note added 9/15/15 16:37
-"carolina,north,state",", North Carolina",State of North Carolina -- Note added 1/14/14 13:05
-"carolina,nc department public,nc department,department,nc,north,public",", North Carolina","Governor's School of North Carolina, NC Department of Public Instruction -- Note added 6/12/13 18:35"
-"carolina,north",", North Carolina",The North Carolina Global TransPark -- Note added 9/15/15 16:39
+"carolina,state,north",North Carolina,State of North Carolina -- Note added 1/14/14 13:05
+"public,department,carolina,nc department,north,nc department public,nc",North Carolina,"Governor's School of North Carolina, NC Department of Public Instruction -- Note added 6/12/13 18:35"
+"carolina,north",North Carolina,The North Carolina Global TransPark -- Note added 9/15/15 16:39
 nc,,NC hearing Aid Dealers -- Note added 9/15/15 16:39
-"health,services,health human services,nc",,NC Health & Human Services -- Note added 9/15/15 16:39
+"services,health human services,health,nc",,NC Health & Human Services -- Note added 9/15/15 16:39
 nc,,NC Healthy School Website -- Note added 9/15/15 16:41
 nc,,NC Housing Finance Agency  -- Note added 9/15/15 16:42
-"carolina,board,north",", North Carolina",North Carolina Home Inspetor Licensure Board -- Note added 11/20/13 12:38
+"carolina,board,north",North Carolina,North Carolina Home Inspetor Licensure Board -- Note added 11/20/13 12:38
 nc,,NC Historic Sites -- Note added 9/15/15 16:42
 "services,office",,Office of Indigent Defense Services  -- Note added 9/15/15 16:43
 nc,,NC International House -- Note added 9/15/15 16:44
 nc,,NC Institute of Medecine -- Note added 9/15/15 16:45
-"carolina,board,north",", North Carolina",The North Carolina Interpreters & Transliterators Licensing Board -- Note added 9/15/15 16:45
-"carolina,state,services,north",", North Carolina",NCknows is a service that allows North Carolina residents to get help from librarians and use their library resources remotely through a computer. NCknows is a pilot project supported by a grant under the Federally-funded Library Services and Technology Act (LSTA). The project is administered by the State Library of North Carolina in Raleigh with help from a committee of librarians and directors from North Carolina's libraries. -- Note added 11/12/15 13:22
+"carolina,board,north",North Carolina,The North Carolina Interpreters & Transliterators Licensing Board -- Note added 9/15/15 16:45
+"carolina,services,state,north",North Carolina,NCknows is a service that allows North Carolina residents to get help from librarians and use their library resources remotely through a computer. NCknows is a pilot project supported by a grant under the Federally-funded Library Services and Technology Act (LSTA). The project is administered by the State Library of North Carolina in Raleigh with help from a committee of librarians and directors from North Carolina's libraries. -- Note added 11/12/15 13:22
 nc,,NC Dept of Labor -- Note added 9/15/15 16:45
 nc,,NC Generla Assembly  -- Note added 9/15/15 16:46
-"carolina,state board examiners,north,board examiners,board,state board,state",", North Carolina","North Carolina State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors -- Note added 9/15/15 16:46"
-"nc,state",,NC Lifetime Income - Members of the Teachers' and State Employees' Retirement System (TSERS) and Local Governmental Employees' Retirement System (LGERS) will have a one-time opportunity to transfer all or part of their NC 401(k) and/or NC Deferred Compensation (457) funds to the Retirement System in order to receive lifetime income at or after retirement. -- Note added 11/12/15 13:21
-"public,nc",,NC Public Library -- Note added 9/15/15 16:47
-"carolina,north",", North Carolina",North Carolina League of Municipalities -- Note added 6/6/13 18:08
-"carolina,board,north",", North Carolina",the board of Marriage and family therapy of North Carolina -- Note added 9/15/15 16:48
-"carolina,board,north",", North Carolina",The North Carolina Locksmith Licensing Board -- Note added 9/15/15 16:48
-"carolina,services,north,office,state",", North Carolina",State of North Carolina Office of Information Technology Services -- Note added 9/15/15 16:49
-"carolina,north",", North Carolina",North Carolina Maritime Museum System -- Note added 8/2/13 15:50
-"carolina,nc department,department,nc,north,department cultural resources",", North Carolina","North Carolina Highway Historical Marker Program, NC Department of Cultural Resources -- Note added 11/12/15 13:19"
+"carolina,board examiners,state,state board,north,board,state board examiners",North Carolina,"North Carolina State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors -- Note added 9/15/15 16:46"
+"state,nc",,NC Lifetime Income - Members of the Teachers' and State Employees' Retirement System (TSERS) and Local Governmental Employees' Retirement System (LGERS) will have a one-time opportunity to transfer all or part of their NC 401(k) and/or NC Deferred Compensation (457) funds to the Retirement System in order to receive lifetime income at or after retirement. -- Note added 11/12/15 13:21
+"nc,public",,NC Public Library -- Note added 9/15/15 16:47
+"carolina,north",North Carolina,North Carolina League of Municipalities -- Note added 6/6/13 18:08
+"carolina,board,north",North Carolina,the board of Marriage and family therapy of North Carolina -- Note added 9/15/15 16:48
+"carolina,board,north",North Carolina,The North Carolina Locksmith Licensing Board -- Note added 9/15/15 16:48
+"carolina,state,office,north,services",North Carolina,State of North Carolina Office of Information Technology Services -- Note added 9/15/15 16:49
+"carolina,north",North Carolina,North Carolina Maritime Museum System -- Note added 8/2/13 15:50
+"department,carolina,nc department,department cultural resources,north,nc",North Carolina,"North Carolina Highway Historical Marker Program, NC Department of Cultural Resources -- Note added 11/12/15 13:19"
 "board,nc",,NC Medical Board -- Note added 9/15/15 16:53
-"division,nc",,NC Division of Medical Assistance -- Note added 9/15/15 16:54
-"health,office,nc",,N.C. Office of Minority Health and Health Disparities -- Note added 9/15/15 16:55
+"nc,division",,NC Division of Medical Assistance -- Note added 9/15/15 16:54
+"office,health,nc",,N.C. Office of Minority Health and Health Disparities -- Note added 9/15/15 16:55
 nc,,NC Motor fleet management -- Note added 9/15/15 16:55
 "health,nc",,The N.C. Health Care Personnel Registry Section   -- Note added 9/15/15 16:56
 nc,,Early Hearing Detection and Intervention Program (NC DHHS &gt; DPH &gt; WCH Section &gt; Children and Youth Branch) -- Note added 11/12/15 13:18
-"carolina,north",", North Carolina",The North Carolina Natural Heritage Program -- Note added 9/15/15 16:56
-"carolina,state,state agencies,north",", North Carolina","Established in 1987, the North Carolina Natural Heritage Trust Fund provided supplemental funding to select state agencies for the acquisition and protection of important natural areas, to preserve the state's ecological diversity and cultural heritage, and to inventory the natural heritage resources of the state. In July 2013, these key purposes were incorporated in the Clean Water Management Trust Fund enabling legislation and the NHTF statute was repealed. See historical snapshot at:  http://web.archive.org/web/20150129185256/http://www.ncnhtf.org/pages/aboutnhtf.htm  -- Note added 11/12/15 13:15"
-"carolina,office,north",", North Carolina",North Carolina Office of Administrative Hearings -- Note added 9/15/15 16:57
+"carolina,north",North Carolina,The North Carolina Natural Heritage Program -- Note added 9/15/15 16:56
+"carolina,state agencies,state,north",North Carolina,"Established in 1987, the North Carolina Natural Heritage Trust Fund provided supplemental funding to select state agencies for the acquisition and protection of important natural areas, to preserve the state's ecological diversity and cultural heritage, and to inventory the natural heritage resources of the state. In July 2013, these key purposes were incorporated in the Clean Water Management Trust Fund enabling legislation and the NHTF statute was repealed. See historical snapshot at:  http://web.archive.org/web/20150129185256/http://www.ncnhtf.org/pages/aboutnhtf.htm  -- Note added 11/12/15 13:15"
+"carolina,office,north",North Carolina,North Carolina Office of Administrative Hearings -- Note added 9/15/15 16:57
 nc,,Welcome to the Grand Chapter of NC Order of the Eastern Star -- Note added 9/15/15 16:57
-"public,nc,north",", North Carolina",NC OneMap is a public service providing comprehensive discovery and access to North Carolina's geospatial data resources. -- Note added 9/15/15 16:58
-"public,nc,north",", North Carolina","NC OneMap, a public service providing comprehensive discovery and access to North Carolina's geospatial data resources. -- Note added 11/12/15 13:13"
-"carolina,state board examiners,north,board examiners,board,state board,state",", North Carolina",he North Carolina State Board of Examiners in Optometry -- Note added 9/15/15 16:58
-"nc department public,health,nc department,department,nc,public,public health",,"NC Physical Activity and Nutrition Branch (NC PAN), NC Department of Public Health See historical snapshot at: http://web.archive.org/web/20130128034822/http://www.ncpanbranch.com/  -- Note added 11/12/15 13:12"
+"north,nc,public",North Carolina,NC OneMap is a public service providing comprehensive discovery and access to North Carolina's geospatial data resources. -- Note added 9/15/15 16:58
+"north,nc,public",North Carolina,"NC OneMap, a public service providing comprehensive discovery and access to North Carolina's geospatial data resources. -- Note added 11/12/15 13:13"
+"carolina,board examiners,state,state board,north,board,state board examiners",North Carolina,he North Carolina State Board of Examiners in Optometry -- Note added 9/15/15 16:58
+"public health,public,nc,nc department,department,nc department public,health",,"NC Physical Activity and Nutrition Branch (NC PAN), NC Department of Public Health See historical snapshot at: http://web.archive.org/web/20130128034822/http://www.ncpanbranch.com/  -- Note added 11/12/15 13:12"
 nc,,NC ports  -- Note added 9/15/15 17:03
 nc,,NC Progress Portal -- Note added 9/15/15 17:03
 "board,nc",,nc psychology board -- Note added 9/15/15 17:03
-"carolina,board,north",", North Carolina",The North Carolina Board of Physical Therapy Examiners -- Note added 9/15/15 17:04
-"carolina,department,north,office,department cultural resources",", North Carolina","Historical Publications, North Carolina Office of Archives and History, Department of Cultural Resources -¬†www.ncpublications.com -- Note added 6/6/13 18:34"
-"division,carolina,health,north,public,public health,division public health",", North Carolina",North Carolina Division of Public Health -- Note added 7/26/13 15:09
-"public,nc",,nc public schools -- Note added 9/15/15 17:05
-"services,health,nc department,department,nc,department health human,health human services",,"Radiation Protection Section, NC Department of Health and Human Services -- Note added 1/14/14 14:18"
+"carolina,board,north",North Carolina,The North Carolina Board of Physical Therapy Examiners -- Note added 9/15/15 17:04
+"department,carolina,department cultural resources,office,north",North Carolina,"Historical Publications, North Carolina Office of Archives and History, Department of Cultural Resources -¬†www.ncpublications.com -- Note added 6/6/13 18:34"
+"public health,division,public,carolina,division public health,north,health",North Carolina,North Carolina Division of Public Health -- Note added 7/26/13 15:09
+"nc,public",,nc public schools -- Note added 9/15/15 17:05
+"health human services,department health human,nc,department,nc department,services,health",,"Radiation Protection Section, NC Department of Health and Human Services -- Note added 1/14/14 14:18"
 "site,nc",,NC Radon Awarenes Site -- Note added 9/15/15 17:05
 "site,services,nc",,"We serve the NC insurance industry by providing services and programs for automobile, property and workers compensation insurance. This site contains information for these types of insurance. -- Note added 9/15/15 17:06"
-"carolina,north",", North Carolina",the North Carolina Respiratory Care   -- Note added 9/15/15 17:13
-"carolina,authority,north",", North Carolina",North Carolina Rural Electrification Authority -- Note added 9/15/15 17:14
-"health,nc,board,state board,state",,NC State Board of Environmental Health Specialist Examiners -- Note added 11/19/13 20:40
+"carolina,north",North Carolina,the North Carolina Respiratory Care   -- Note added 9/15/15 17:13
+"carolina,north,authority",North Carolina,North Carolina Rural Electrification Authority -- Note added 9/15/15 17:14
+"nc,state,state board,board,health",,NC State Board of Environmental Health Specialist Examiners -- Note added 11/19/13 20:40
 nc,,nc report cards for schools -- Note added 9/15/15 17:16
 nc,,nc science and technology -- Note added 9/15/15 17:17
 nc,,NC School for the deaf -- Note added 9/15/15 17:17
-"nc,state",,NC State Employees Combined Campaign -- Note added 9/15/15 17:18
-"carolina,health,north",", North Carolina",North Carolina Seniors' Health Insurance Information Program (SHIIP) -- Note added 1/22/14 19:19
-"carolina,nc department public,health,nc department,department,nc,north,public,public health",", North Carolina","North Carolina Sickle Cell Syndrome Program, NC Department of Public Health -- Note added 11/12/15 13:09"
-"division,carolina,department,nc,north,public,carolina department,state",", North Carolina",The North Carolina State Improvement Project (NC SIP ). NC SIP is a program in the Exceptional Children Division of the North Carolina Department of Public Instruction (NC DPI). -- Note added 9/15/15 17:19
-"carolina,site,north",", North Carolina","Thank you for visiting ACCESSNC, your one-stop source for North Carolina economic data and site information. -- Note added 9/15/15 17:19"
+"state,nc",,NC State Employees Combined Campaign -- Note added 9/15/15 17:18
+"carolina,health,north",North Carolina,North Carolina Seniors' Health Insurance Information Program (SHIIP) -- Note added 1/22/14 19:19
+"public health,public,department,carolina,nc department,north,health,nc department public,nc",North Carolina,"North Carolina Sickle Cell Syndrome Program, NC Department of Public Health -- Note added 11/12/15 13:09"
+"division,department,public,carolina,state,north,carolina department,nc",North Carolina,The North Carolina State Improvement Project (NC SIP ). NC SIP is a program in the Exceptional Children Division of the North Carolina Department of Public Instruction (NC DPI). -- Note added 9/15/15 17:19
+"carolina,north,site",North Carolina,"Thank you for visiting ACCESSNC, your one-stop source for North Carolina economic data and site information. -- Note added 9/15/15 17:19"
 "carolina,health",,"The Carolina Star Program is designed to recognize and promote effective safety and health management systems. In Star, management, labor and OSH establish a cooperative relationship at a workplace that has implemented a strong program. -- Note added 9/15/15 17:20"
-"nc,state",,NC state Fair -- Note added 9/15/15 17:20
+"state,nc",,NC state Fair -- Note added 9/15/15 17:20
 "site,nc",,NC Stormwater and Runoff pollution site -- Note added 9/15/15 17:22
-"nc,state",,NC State Univ Extension  -- Note added 9/15/15 17:22
-"carolina,board,north",", North Carolina",North Carolina Social Work Certification and Licensure Board -- Note added 9/22/15 14:12
+"state,nc",,NC State Univ Extension  -- Note added 9/15/15 17:22
+"carolina,board,north",North Carolina,North Carolina Social Work Certification and Licensure Board -- Note added 9/22/15 14:12
 nc,,NC Symphony -- Note added 9/15/15 17:22
-"services,health,nc department,department,nc,department health human,health human services",,"Tobacco Free Schools, NC Department of Health and Human Services -- Note added 2/25/14 13:20"
-"office,carolina,north,state",", North Carolina",State of North Carolina Japan Office -- Note added 7/24/13 16:40
+"health human services,department health human,nc,department,nc department,services,health",,"Tobacco Free Schools, NC Department of Health and Human Services -- Note added 2/25/14 13:20"
+"carolina,office,state,north",North Carolina,State of North Carolina Japan Office -- Note added 7/24/13 16:40
 ,,NC-TOPPS homepage is now http://www.ncdhhs.gov/MHDDSAS/providers/NCTOPPS/index.htm. Entry still included here for nctopps.ncdmh.net pattern for pages such as https://www.google.com/search?q=site%3Anctopps.ncdmh.net. -- Note added 7/23/14 14:41
-"office,nc,state",,NC Office of State Personnel -- Note added 1/14/14 13:06
+"office,state,nc",,NC Office of State Personnel -- Note added 1/14/14 13:06
 nc,,NC Transportation Museum -- Note added 9/15/15 17:25
-"carolina,department,north,carolina department,state",", North Carolina",North Carolina Department of State Treasurer -- Note added 6/6/13 18:09
-"carolina,board,north",", North Carolina",North Carolina Veterinary Medical Board -- Note added 9/15/15 17:30
-north,", North Carolina",North Carolina's marketplace for discarded or surplus materials and products. -- Note added 9/15/15 17:31
-"division,nc",,NC Division of Water Resources -- Note added 9/15/15 17:31
-"division,carolina,north",", North Carolina",North Carolina Division of Water Resources -- Note added 11/12/15 12:58
-"carolina,services,commission,health,department,north,department health human,public,public health,health human services",", North Carolina","North Carolina Well Contractors Certification Commission - protects the public health and safety by ensuring the integrity and competence of well contractors through examination, certification, continuing education and enforcement. The Well Contractors Certification Unit is now part of the Department of Health and Human Services. -- Note added 11/12/15 12:57"
-"commission,nc",,nc wildlife resource commission  -- Note added 9/15/15 17:32
-"public,nc",,"NC WiseOwl (NC Online Windows for Learning) has been providing online subscription resources for our schools since 1999.  Our mission is to ensure that all of our public and charter school students have access to a collection of online resources for use in research projects and homework assignments, without regard to the economic status of their local school system.  NC WiseOwl has three major strengths as an educational resource: -- Note added 9/15/15 17:33"
-"carolina,department,nc,north,carolina department",", North Carolina",NC Zoo is an agency of the North Carolina Department of Natural and Cultural Resources -- Note added 11/12/15 12:48
-north,", North Dakota",North Dakota League of Cities -- Note added 7/22/14 6:08
-department,", Nevada",Nevada Department of Wildlife -- Note added 1/27/14 20:15
-department,", Nevada",Nevada Department of Wildlife (NDOW) Licensing -- Note added 10/21/13 11:53
-north,", North Dakota",North Dakota Recorders Information Network -- Note added 7/21/14 6:33
-"tourism site,travel tourism,travel tourism site,tourism,site,north,travel",", North Dakota",Travel and Tourism Site for North Dakota -- Note added 6/6/13 19:42
-board,", Nebraska",Nebraska Ethanol Board -- Note added 12/6/13 19:53
-,", Nebraska",Nebraska AgRelations Council -- Note added 12/6/13 19:45
-,", Nebraska",Nebraska Association of Transportation Providers -- Note added 12/6/13 20:02
-state,", Nebraska","Nebraska Arts Council. The Council is funded by the State of Nebraska, the National Endowment for the Arts, and the Nebraska Cultural Endowment. -- Note added 12/6/13 19:38"
-board,", Nebraska",Nebraska Corn Board -- Note added 12/6/13 19:41
-commission,", Nebraska",Nebraska Dry Bean Commission -- Note added 12/6/13 19:49
-state,", Nebraska",Nebraska State Historical Society -- Note added 12/9/13 18:24
-"commission,state",", Nebraska",Nebraska State Racing Commission -- Note added 12/6/13 20:01
-board,", Nebraska",Nebraska Wheat Board -- Note added 12/6/13 20:06
-"economic development,department",", Nebraska",Nebraska Department of Economic Development -- Note added 12/6/13 19:50
-lottery,", Nebraska",Nebraska Lottery -- Note added 6/12/13 14:18
-department,", Nevada",Nevada Department of Transportation -- Note added 6/26/13 15:23
-,", Nevada",The Nevada Judiciary -- Note added 1/24/14 13:06
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", New Mexico",Travel and Tourism Site for New Mexico -- Note added 6/6/13 19:42
-"economic development,department",", Pennsylvania",Pennsylvania Department of Community & Economic Development -- Note added 6/6/13 18:08
-,", Nebraska",Nebraska Forest Service -- Note added 12/6/13 19:55
+"department,carolina,state,north,carolina department",North Carolina,North Carolina Department of State Treasurer -- Note added 6/6/13 18:09
+"carolina,board,north",North Carolina,North Carolina Veterinary Medical Board -- Note added 9/15/15 17:30
+north,North Carolina,North Carolina's marketplace for discarded or surplus materials and products. -- Note added 9/15/15 17:31
+"nc,division",,NC Division of Water Resources -- Note added 9/15/15 17:31
+"carolina,north,division",North Carolina,North Carolina Division of Water Resources -- Note added 11/12/15 12:58
+"public health,health human services,department health human,public,department,carolina,north,services,health,commission",North Carolina,"North Carolina Well Contractors Certification Commission - protects the public health and safety by ensuring the integrity and competence of well contractors through examination, certification, continuing education and enforcement. The Well Contractors Certification Unit is now part of the Department of Health and Human Services. -- Note added 11/12/15 12:57"
+"nc,commission",,nc wildlife resource commission  -- Note added 9/15/15 17:32
+"nc,public",,"NC WiseOwl (NC Online Windows for Learning) has been providing online subscription resources for our schools since 1999.  Our mission is to ensure that all of our public and charter school students have access to a collection of online resources for use in research projects and homework assignments, without regard to the economic status of their local school system.  NC WiseOwl has three major strengths as an educational resource: -- Note added 9/15/15 17:33"
+"department,carolina,north,carolina department,nc",North Carolina,NC Zoo is an agency of the North Carolina Department of Natural and Cultural Resources -- Note added 11/12/15 12:48
+north,North Dakota,North Dakota League of Cities -- Note added 7/22/14 6:08
+department,Nevada,Nevada Department of Wildlife -- Note added 1/27/14 20:15
+department,Nevada,Nevada Department of Wildlife (NDOW) Licensing -- Note added 10/21/13 11:53
+north,North Dakota,North Dakota Recorders Information Network -- Note added 7/21/14 6:33
+"tourism,travel tourism,site,travel tourism site,travel,north,tourism site",North Dakota,Travel and Tourism Site for North Dakota -- Note added 6/6/13 19:42
+board,Nebraska,Nebraska Ethanol Board -- Note added 12/6/13 19:53
+,Nebraska,Nebraska AgRelations Council -- Note added 12/6/13 19:45
+,Nebraska,Nebraska Association of Transportation Providers -- Note added 12/6/13 20:02
+state,Nebraska,"Nebraska Arts Council. The Council is funded by the State of Nebraska, the National Endowment for the Arts, and the Nebraska Cultural Endowment. -- Note added 12/6/13 19:38"
+board,Nebraska,Nebraska Corn Board -- Note added 12/6/13 19:41
+commission,Nebraska,Nebraska Dry Bean Commission -- Note added 12/6/13 19:49
+state,Nebraska,Nebraska State Historical Society -- Note added 12/9/13 18:24
+"state,commission",Nebraska,Nebraska State Racing Commission -- Note added 12/6/13 20:01
+board,Nebraska,Nebraska Wheat Board -- Note added 12/6/13 20:06
+"economic development,department",Nebraska,Nebraska Department of Economic Development -- Note added 12/6/13 19:50
+lottery,Nebraska,Nebraska Lottery -- Note added 6/12/13 14:18
+department,Nevada,Nevada Department of Transportation -- Note added 6/26/13 15:23
+,Nevada,The Nevada Judiciary -- Note added 1/24/14 13:06
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",New Mexico,Travel and Tourism Site for New Mexico -- Note added 6/6/13 19:42
+"economic development,department",Pennsylvania,Pennsylvania Department of Community & Economic Development -- Note added 6/6/13 18:08
+,Nebraska,Nebraska Forest Service -- Note added 12/6/13 19:55
 ,,NH Historical Society -- Note added 9/2/15 19:01
 ,,NH Municipal Association -- Note added 9/2/15 19:02
-"lottery,commission",", New Hampshire",New Hampshire Lottery Commission -- Note added 6/12/13 14:19
+"lottery,commission",New Hampshire,New Hampshire Lottery Commission -- Note added 6/12/13 14:19
 state,,NH State Parks -- Note added 9/2/15 19:03
-"economic development,authority,economic development authority",", New Jersey",New Jersey Economic Development Authority -- Note added 9/16/15 15:52
+"economic development,economic development authority,authority",New Jersey,New Jersey Economic Development Authority -- Note added 9/16/15 15:52
 "division,department",,"Division of Fish and Wildlife, NJ Department of Environmental Protection -- Note added 6/7/13 11:33"
-state,", New Jersey",New Jersey State Library -- Note added 7/26/13 16:17
-,", New Jersey",New Jersey Surcharge Violation System (NJSVS) -- Note added 9/16/15 15:53
+state,New Jersey,New Jersey State Library -- Note added 7/26/13 16:17
+,New Jersey,New Jersey Surcharge Violation System (NJSVS) -- Note added 9/16/15 15:53
 department,,Department of Labor and Workforce Development   -- Note added 9/16/15 15:53
-lottery,", New Mexico",New Mexico Lottery -- Note added 6/12/13 14:20
-"public health,health,public",", New Mexico",New Mexico Environmental Public Health Tracking -- Note added 10/24/14 12:11
-,", New Mexico","Special Supplemental Nutrition Program for New Mexico Women, Infants & Children -- Note added 1/10/14 19:17"
-"division,services,health,nc,public,public health,division public health,health human services",,"Nutrition Services Branch, Women's and Children's Health, NC Division of Public Health, NCDepartment of Health and Human Services  -- Note added 3/20/14 16:33"
-"division,services,health,department,department health human,health human services,state",", Nevada","Aging and Disability Services Division, Department of Health and Human Services, State of Nevada -- Note added 6/17/13 15:40"
-"york state,state",", New York",New York State Conference of Mayors and Municipal Officials (NYCOM) -- Note added 7/2/15 10:49
-,", New York",New York Historical Society Museum and Library -- Note added 7/2/15 10:50
-"york state,state",", New York",New York State Council on the Arts -- Note added 7/2/15 10:51
-"york state,state agencies,state",", New York",New York State eGovernment listing of state agencies -- Note added 9/25/13 15:35
-"york state,state",", New York",New York State Fair -- Note added 6/12/13 18:48
-"york state,state",", New York",New York State Homes and Community Renewal -- Note added 9/9/15 13:48
-"york state,state",", New York",New York State Local Government IT Directors Association (NYSLGITDA) -- Note added 7/2/15 10:59
-"york state,state",", New York",New York State Police Recruitment Center -- Note added 1/3/14 13:14
+lottery,New Mexico,New Mexico Lottery -- Note added 6/12/13 14:20
+"public health,health,public",New Mexico,New Mexico Environmental Public Health Tracking -- Note added 10/24/14 12:11
+,New Mexico,"Special Supplemental Nutrition Program for New Mexico Women, Infants & Children -- Note added 1/10/14 19:17"
+"public health,health human services,division,public,nc,division public health,services,health",,"Nutrition Services Branch, Women's and Children's Health, NC Division of Public Health, NCDepartment of Health and Human Services  -- Note added 3/20/14 16:33"
+"health human services,department health human,division,department,state,services,health",Nevada,"Aging and Disability Services Division, Department of Health and Human Services, State of Nevada -- Note added 6/17/13 15:40"
+"state,york state",New York,New York State Conference of Mayors and Municipal Officials (NYCOM) -- Note added 7/2/15 10:49
+,New York,New York Historical Society Museum and Library -- Note added 7/2/15 10:50
+"state,york state",New York,New York State Council on the Arts -- Note added 7/2/15 10:51
+"state agencies,state,york state",New York,New York State eGovernment listing of state agencies -- Note added 9/25/13 15:35
+"state,york state",New York,New York State Fair -- Note added 6/12/13 18:48
+"state,york state",New York,New York State Homes and Community Renewal -- Note added 9/9/15 13:48
+"state,york state",New York,New York State Local Government IT Directors Association (NYSLGITDA) -- Note added 7/2/15 10:59
+"state,york state",New York,New York State Police Recruitment Center -- Note added 1/3/14 13:14
 commission,,OK Corporation Commission -- Note added 8/28/15 18:20
-office,", Hawaii","Office of Hawaiian Affairs - 'Under the direction of nine trustees elected statewide, OHA has functioned operationally as both a government agency with a strong degree of autonomy, and as a trust.' -- Note added 6/12/13 13:27"
-,", Ohio",Ohio Bureau of Workers' Compensation -- Note added 3/26/14 18:21
-,", Ohio",Ohio Humanities Council -- Note added 3/26/14 18:28
-lottery,", Ohio",Ohio Lottery -- Note added 6/12/13 14:22
-,", Ohio",Ohio Recorders' Association -- Note added 3/26/14 18:36
-,", Oregon",Oregon Historical Society -- Note added 6/20/14 7:38
+office,Hawaii,"Office of Hawaiian Affairs - 'Under the direction of nine trustees elected statewide, OHA has functioned operationally as both a government agency with a strong degree of autonomy, and as a trust.' -- Note added 6/12/13 13:27"
+,Ohio,Ohio Bureau of Workers' Compensation -- Note added 3/26/14 18:21
+,Ohio,Ohio Humanities Council -- Note added 3/26/14 18:28
+lottery,Ohio,Ohio Lottery -- Note added 6/12/13 14:22
+,Ohio,Ohio Recorders' Association -- Note added 3/26/14 18:36
+,Oregon,Oregon Historical Society -- Note added 6/20/14 7:38
 ,,OK career tech website -- Note added 8/28/15 18:21
 services,,OK dept of human services -- Note added 8/28/15 18:21
-department,", Oklahoma","OKLibShare, Oklahoma Department of Libraries -- Note added 8/27/15 16:00"
+department,Oklahoma,"OKLibShare, Oklahoma Department of Libraries -- Note added 8/27/15 16:00"
 commission,,OK LP Gas commission -- Note added 8/28/15 18:22
-state,", Virginia",State of Virginia Olmstead Initiative -- Note added 8/27/15 14:13
-,", Ohio",Ohio Municipal League -- Note added 3/26/14 18:40
-"division,office,north",", North Carolina","Office of Land and Water Stewardship, a non-regulatory division within North Carolina's DENR that provides information and assistance to support effective conservation and resilient communities.  -- Note added 11/12/15 12:36"
-commission,", Oregon",Oregon Arts Commission -- Note added 6/20/14 7:34
-office,", Oregon",Oregon Governor's Office of Film and Television -- Note added 3/20/14 16:53
-lottery,", Oregon",Oregon Lottery -- Note added 6/12/13 14:22
-state,", Oregon",Oregon State Fair -- Note added 6/20/14 7:22
-,", Oklahoma","The Oklahoma Resources Integration General Information Network System (Origins) is an online database which contains economic, social, and demographic data intended for use by community leaders, educators, businesses, government agencies, and decision makers. -- Note added 8/28/15 18:22"
-"office,state",", Kansas",Office of the State Bank Commissioner of Kansas -- Note added 7/10/14 6:29
+state,Virginia,State of Virginia Olmstead Initiative -- Note added 8/27/15 14:13
+,Ohio,Ohio Municipal League -- Note added 3/26/14 18:40
+"north,office,division",North Carolina,"Office of Land and Water Stewardship, a non-regulatory division within North Carolina's DENR that provides information and assistance to support effective conservation and resilient communities.  -- Note added 11/12/15 12:36"
+commission,Oregon,Oregon Arts Commission -- Note added 6/20/14 7:34
+office,Oregon,Oregon Governor's Office of Film and Television -- Note added 3/20/14 16:53
+lottery,Oregon,Oregon Lottery -- Note added 6/12/13 14:22
+state,Oregon,Oregon State Fair -- Note added 6/20/14 7:22
+,Oklahoma,"The Oklahoma Resources Integration General Information Network System (Origins) is an online database which contains economic, social, and demographic data intended for use by community leaders, educators, businesses, government agencies, and decision makers. -- Note added 8/28/15 18:22"
+"state,office",Kansas,Office of the State Bank Commissioner of Kansas -- Note added 7/10/14 6:29
 state,,OK State Court System -- Note added 8/28/15 18:23
-"office,state",", Maryland",Office of the Maryland State Prosecutor -- Note added 5/27/14 3:40
-"division,carolina,north",", North Carolina",North Carolina Division of Environmental Assistance and Customer Service   -- Note added 9/15/15 17:43
-,", Pennsylvania",Commonwealth of Pennsylvania's media hub -- Note added 6/6/13 18:08
-,", Pennsylvania",Unified Judicial System of Pennsylvania -- Note added 1/10/14 15:20
+"state,office",Maryland,Office of the Maryland State Prosecutor -- Note added 5/27/14 3:40
+"carolina,north,division",North Carolina,North Carolina Division of Environmental Assistance and Customer Service   -- Note added 9/15/15 17:43
+,Pennsylvania,Commonwealth of Pennsylvania's media hub -- Note added 6/6/13 18:08
+,Pennsylvania,Unified Judicial System of Pennsylvania -- Note added 1/10/14 15:20
 authority,,PA eHealth Partnership Authority -- Note added 6/7/13 11:53
-,", Pennsylvania",Pennsylvania FirstNet. See also http://www.ntia.doc.gov/sligp/pennsylvania.  -- Note added 9/24/14 16:11
-,", Palau",Republic of Palau National Government -- Note added 6/7/13 18:27
-,", Palau",Palau Judiciary Branch -- Note added 5/27/14 15:03
-"office,public,state",", Georgia",Georgia State Defense Force public affairs office. Website mirrored on gasdf.com. Referenced on https://ga.ng.mil/Leadership/Georgia-State-Defense-Force/.
-,", South Dakota",South Dakota Parks & Wildlife Foundation -- Note added 7/17/14 5:50
+,Pennsylvania,Pennsylvania FirstNet. See also http://www.ntia.doc.gov/sligp/pennsylvania.  -- Note added 9/24/14 16:11
+,Palau,Republic of Palau National Government -- Note added 6/7/13 18:27
+,Palau,Palau Judiciary Branch -- Note added 5/27/14 15:03
+"state,office,public",Georgia,Georgia State Defense Force public affairs office. Website mirrored on gasdf.com. Referenced on https://ga.ng.mil/Leadership/Georgia-State-Defense-Force/.
+,South Dakota,South Dakota Parks & Wildlife Foundation -- Note added 7/17/14 5:50
 state,,PA State System of Higher Education -- Note added 6/7/13 11:53
 authority,,PA Patient Safety Authority -- Note added 6/7/13 11:53
-commission,", Pennsylvania",Pennsylvania Turnpike Commission -- Note added 10/1/14 18:05
+commission,Pennsylvania,Pennsylvania Turnpike Commission -- Note added 10/1/14 18:05
 health,,PA Health Care Cost Containment Council -- Note added 6/7/13 11:53
 ,,PA Higher Education Assistance Agency -- Note added 6/7/13 11:53
 authority,,PA Higher Educational Facilities Authority -- Note added 6/7/13 11:53
 ,,PA Housing Finance Agency -- Note added 6/7/13 11:53
-state,", Mississippi","Pat Harrison Waterway District (PHWD), a Mississippi State Agency that provides camping, cabins and recreational facilities in Mississippi -- Note added 1/13/14 20:28"
-"carolina,authority",", South Carolina",South Carolina Ports Authority -- Note added 6/6/13 18:08
-,", Virginia",The Port of Virginia -- Note added 7/14/14 17:09
-"commission,state",", Washington",Washington State Potato Commission -- Note added 11/17/14 7:11
-"office,commission,state",", Alabama","Alabama Historical Commission, State of Alabama Historic Preservation Office -- Note added 7/15/13 18:19"
-"carolina,department,north,department cultural resources,carolina department",", North Carolina","Queen Anne's Revenge, a project of the http://www.qaronline.org/ North Carolina Department of Cultural Resources to educate the next generation on colonial life -- Note added 11/20/13 17:34"
-state,", Maryland","Uninsured Employers' Fund, State of Maryland -- Note added 11/20/13 17:37"
+state,Mississippi,"Pat Harrison Waterway District (PHWD), a Mississippi State Agency that provides camping, cabins and recreational facilities in Mississippi -- Note added 1/13/14 20:28"
+"carolina,authority",South Carolina,South Carolina Ports Authority -- Note added 6/6/13 18:08
+,Virginia,The Port of Virginia -- Note added 7/14/14 17:09
+"state,commission",Washington,Washington State Potato Commission -- Note added 11/17/14 7:11
+"state,office,commission",Alabama,"Alabama Historical Commission, State of Alabama Historic Preservation Office -- Note added 7/15/13 18:19"
+"department,carolina,department cultural resources,north,carolina department",North Carolina,"Queen Anne's Revenge, a project of the http://www.qaronline.org/ North Carolina Department of Cultural Resources to educate the next generation on colonial life -- Note added 11/20/13 17:34"
+state,Maryland,"Uninsured Employers' Fund, State of Maryland -- Note added 11/20/13 17:37"
 state,,OK State AG Econ at OSU -- Note added 8/28/15 18:25
-"nc department public,nc department,department,nc,public",,"Ready NC, NC Department of Public Safety -- Note added 1/14/14 14:35"
-,", Pennsylvania","Ready PA, Pennsylvania Emergency Management Agency -- Note added 4/16/14 15:38"
-commission,", Washington",Washington Red Raspberry Commission -- Note added 11/17/14 7:07
-"board,state board,state",,The State Board of Refrigeration Examiners -- Note added 9/15/15 17:47
-"division,department education,department",", Florida",Division of Vocational Rehabilitation - Florida Department of Education -- Note added 7/1/15 18:43
-,", Rhode Island",Rhode Island Clean Water Finance Agency -- Note added 1/27/14 19:35
-,", Rhode Island",Rhode Island Emissions and Safety Testing -- Note added 1/7/14 18:45
-lottery,", Rhode Island",Rhode Island Lottery -- Note added 6/7/13 18:46
-"commission,public",", Rhode Island",Rhode Island Public Utilities Commission -- Note added 1/29/14 15:24
-authority,", Rhode Island",Rhode Island Turnpike and Bridge Authority -- Note added 1/27/14 15:54
-office,", Marshall Islands","Office of the President, Republic of the Marshall Islands -- Note added 6/12/13 13:31"
-state,", Montana","SafeMT, a resource of the Montana State Fund for safety in Montana's workplaces. -- Note added 11/18/13 16:35"
+"public,department,nc department,nc department public,nc",,"Ready NC, NC Department of Public Safety -- Note added 1/14/14 14:35"
+,Pennsylvania,"Ready PA, Pennsylvania Emergency Management Agency -- Note added 4/16/14 15:38"
+commission,Washington,Washington Red Raspberry Commission -- Note added 11/17/14 7:07
+"board,state,state board",,The State Board of Refrigeration Examiners -- Note added 9/15/15 17:47
+"department education,division,department",Florida,Division of Vocational Rehabilitation - Florida Department of Education -- Note added 7/1/15 18:43
+,Rhode Island,Rhode Island Clean Water Finance Agency -- Note added 1/27/14 19:35
+,Rhode Island,Rhode Island Emissions and Safety Testing -- Note added 1/7/14 18:45
+lottery,Rhode Island,Rhode Island Lottery -- Note added 6/7/13 18:46
+"public,commission",Rhode Island,Rhode Island Public Utilities Commission -- Note added 1/29/14 15:24
+authority,Rhode Island,Rhode Island Turnpike and Bridge Authority -- Note added 1/27/14 15:54
+office,Marshall Islands,"Office of the President, Republic of the Marshall Islands -- Note added 6/12/13 13:31"
+state,Montana,"SafeMT, a resource of the Montana State Fund for safety in Montana's workplaces. -- Note added 11/18/13 16:35"
 "site,nc",,NC Safe Haven Law - Abandoned Infant Protection Law Site -- Note added 9/15/15 17:54
-health,", Virginia","The website of the Virginia Center on Aging (VCoA), a statewide agency created by the Virginia General Assembly and housed at Virginia Commonwealth University in the School of Allied Health Professions. VCoA works to protect and improve the quality of life of older Virginians, so that they might remain interdependent and contributing members to life in Virginia. -- Note added 6/27/14 14:23"
-"carolina,authority,public",", South Carolina","Santee Cooper, also known officially from the 1930s as the South Carolina Public Service Authority, is South Carolina's state-owned electric and water utility that came into being during the New Deal. -- Note added 8/25/14 16:04"
-"office,state",", New Mexico",New Mexico Office of the State Auditor -- Note added 7/16/14 5:38
+health,Virginia,"The website of the Virginia Center on Aging (VCoA), a statewide agency created by the Virginia General Assembly and housed at Virginia Commonwealth University in the School of Allied Health Professions. VCoA works to protect and improve the quality of life of older Virginians, so that they might remain interdependent and contributing members to life in Virginia. -- Note added 6/27/14 14:23"
+"carolina,authority,public",South Carolina,"Santee Cooper, also known officially from the 1930s as the South Carolina Public Service Authority, is South Carolina's state-owned electric and water utility that came into being during the New Deal. -- Note added 8/25/14 16:04"
+"state,office",New Mexico,New Mexico Office of the State Auditor -- Note added 7/16/14 5:38
 nc,,Save Water NC -- Note added 11/12/15 12:34
-"board,state board,state",", Florida","Florida State Board of Administration, created by the Florida Constitution and is governed by a three-member Board of Trustees (Trustees), comprised of the Governor as Chair, the Chief Financial Officer and the Attorney General. -- Note added 8/25/14 16:59"
-"board,state board,state",", Washington",Washington State Board for Community and Technical Colleges -- Note added 4/8/14 18:22
-"authority,state",,"State College Borough Water Authority, PA -- Note added 10/1/14 20:16"
+"board,state,state board",Florida,"Florida State Board of Administration, created by the Florida Constitution and is governed by a three-member Board of Trustees (Trustees), comprised of the Governor as Chair, the Chief Financial Officer and the Attorney General. -- Note added 8/25/14 16:59"
+"board,state,state board",Washington,Washington State Board for Community and Technical Colleges -- Note added 4/8/14 18:22
+"state,authority",,"State College Borough Water Authority, PA -- Note added 10/1/14 20:16"
 ,,SC dept of commerce -- Note added 8/28/15 15:19
 ,,SC judicial courts -- Note added 8/28/15 15:19
 ,,SC DMV -- Note added 8/28/15 15:20
-"carolina,lottery",", South Carolina",South Carolina Education Lottery -- Note added 6/12/13 14:24
-"division,carolina",", South Carolina",South Carolina Emergency Management Division -- Note added 8/28/15 15:20
+"carolina,lottery",South Carolina,South Carolina Education Lottery -- Note added 6/12/13 14:24
+"carolina,division",South Carolina,South Carolina Emergency Management Division -- Note added 8/28/15 15:20
 ,,SC early childhood education program -- Note added 8/28/15 15:20
 ,,SC Gov Mansion  -- Note added 8/28/15 15:23
 ,,SC govoners school for science and math -- Note added 8/28/15 15:23
 national guard,,SC National Guard -- Note added 8/28/15 15:24
-"public,state",", Virginia","The State Council of Higher Education for Virginia (SCHEV) makes higher education public policy recommendations to the Governor and General Assembly in such areas as capital and operating budget planning, enrollment projections, institutional technology needs, and student financial aid. -- Note added 6/27/14 14:25"
-"carolina,department,north,public,carolina department",", North Carolina","School Planning Section, North Carolina Department of Public Instruction -- Note added 8/25/14 15:01"
-carolina,", South Carolina",South Carolina Independent Living Council (SCILC) -- Note added 9/22/15 15:16
-carolina,", South Carolina",South Carolina Independent Living Council (SCILC) -- Note added 9/22/15 15:17
-carolina,", South Carolina","The South Carolina EPSCoR/IDeA Program, CCCR COBRE, and the USC School of Medicine Instrumentation Resource Facility -- Note added 8/28/15 15:28"
+"state,public",Virginia,"The State Council of Higher Education for Virginia (SCHEV) makes higher education public policy recommendations to the Governor and General Assembly in such areas as capital and operating budget planning, enrollment projections, institutional technology needs, and student financial aid. -- Note added 6/27/14 14:25"
+"public,department,carolina,north,carolina department",North Carolina,"School Planning Section, North Carolina Department of Public Instruction -- Note added 8/25/14 15:01"
+carolina,South Carolina,South Carolina Independent Living Council (SCILC) -- Note added 9/22/15 15:16
+carolina,South Carolina,South Carolina Independent Living Council (SCILC) -- Note added 9/22/15 15:17
+carolina,South Carolina,"The South Carolina EPSCoR/IDeA Program, CCCR COBRE, and the USC School of Medicine Instrumentation Resource Facility -- Note added 8/28/15 15:28"
 ,,SC malpractice patient compensation fund -- Note added 8/28/15 15:27
-carolina,", South Carolina",South Carolina School for the Deaf and Blind -- Note added 8/25/14 15:03
-carolina,", South Carolina",South Carolina Statewide Independent Living Council (SILC) -- Note added 9/22/15 15:19
+carolina,South Carolina,South Carolina School for the Deaf and Blind -- Note added 8/25/14 15:03
+carolina,South Carolina,South Carolina Statewide Independent Living Council (SILC) -- Note added 9/22/15 15:19
 state,,SC sec of state -- Note added 8/28/15 15:29
-"carolina,carolina department,department",", South Carolina",South Carolina Department of Revenue -- Note added 8/25/14 15:04
-"carolina,commission",", South Carolina",South Carolina Higher EducationTuition Grants Commission -- Note added 8/28/15 15:30
+"carolina,carolina department,department",South Carolina,South Carolina Department of Revenue -- Note added 8/25/14 15:04
+"carolina,commission",South Carolina,South Carolina Higher EducationTuition Grants Commission -- Note added 8/28/15 15:30
 state,,SC State Election Committee -- Note added 8/28/15 15:30
 ,,SC Vocab Rehab -- Note added 8/28/15 15:31
-department,", South Dakota",South Dakota Department of Transportation -- Note added 7/17/14 5:53
-authority,", South Dakota",South Dakota Housing Development Authority -- Note added 7/17/14 5:54
-"carolina,north,state",,STATE EMPLOYEES ASSOCIATION OF NORTH CAROLINA -- Note added 9/15/15 17:56
-,", Michigan","Seeking Michigan, the online platform for the http://michigan.gov/mhc Michigan Historical Center. It includes http://www.michigan.gov/archivesofmi Archives of Michigan research guides and indexes, a blog, and educator resources&ndash;all from the Michigan Historical Center and Archives of Michigan staff. -- Note added 7/9/14 12:06"
-,", Minnesota",Minnesota Senate -- Note added 11/9/15 20:36
-"division,department",", Arizona","Authorized Service Website for the Arizona Department of Transportation, Motor Vehicle Division -- Note added 1/10/14 19:17"
-"authority,state",", Mississippi",Mississippi State Port Authority -- Note added 7/25/14 20:50
-"carolina,state,health,north",", North Carolina",North Carolina State Health Plan for Teachers and State Employees -- Note added 7/25/14 15:10
+department,South Dakota,South Dakota Department of Transportation -- Note added 7/17/14 5:53
+authority,South Dakota,South Dakota Housing Development Authority -- Note added 7/17/14 5:54
+"carolina,state,north",,STATE EMPLOYEES ASSOCIATION OF NORTH CAROLINA -- Note added 9/15/15 17:56
+,Michigan,"Seeking Michigan, the online platform for the http://michigan.gov/mhc Michigan Historical Center. It includes http://www.michigan.gov/archivesofmi Archives of Michigan research guides and indexes, a blog, and educator resources&ndash;all from the Michigan Historical Center and Archives of Michigan staff. -- Note added 7/9/14 12:06"
+,Minnesota,Minnesota Senate -- Note added 11/9/15 20:36
+"division,department",Arizona,"Authorized Service Website for the Arizona Department of Transportation, Motor Vehicle Division -- Note added 1/10/14 19:17"
+"state,authority",Mississippi,Mississippi State Port Authority -- Note added 7/25/14 20:50
+"carolina,health,state,north",North Carolina,North Carolina State Health Plan for Teachers and State Employees -- Note added 7/25/14 15:10
 ,,SLED (Statewide Library Electronic Doorway) -- Note added 6/6/13 18:08
-"division,health,nc,public,public health,division public health,state",,"State Laboratory of Public Health, NC Division of Public Health -- Note added 7/26/13 15:11"
-,", Virginia","Science Museum of Virginia, located in Richmond, VA -- Note added 7/11/14 18:43"
-"nc,state",,NC Secretary Of State -- Note added 9/15/15 17:58
+"public health,division,public,state,division public health,health,nc",,"State Laboratory of Public Health, NC Division of Public Health -- Note added 7/26/13 15:11"
+,Virginia,"Science Museum of Virginia, located in Richmond, VA -- Note added 7/11/14 18:43"
+"state,nc",,NC Secretary Of State -- Note added 9/15/15 17:58
 "carolina,commission",,south carolina arts commission -- Note added 8/28/15 15:32
 carolina,,south carolina historical society -- Note added 8/28/15 15:32
-"authority,public,state",,PA State Public School Building Authority -- Note added 6/7/13 11:53
-"york state,commission,state",", Pennsylvania, New York, Maryland","Susquehanna River Basin Commission -¬†The Susquehanna River Basin Compact, was signed into law on December 24, 1970. The Compact, as adopted by the Congress of the United States, and the legislatures of New York State, Pennsylvania and Maryland, provides the mechanism to guide the conservation, development, and administration of the water resources of the vast river basin. -- Note added 6/26/13 16:30"
-"carolina,north,state",", North Carolina","Start Squad, kid's portal to the State Library of North Carolina -- Note added 8/25/14 12:12"
-north,", North Carolina",North Carolina's Justus-Warren Heart Disease and Stroke Prevention Task Force -- Note added 11/10/15 20:35
-"state agencies,state",", Alaska","*state.ak.us pattern to include Alaska state agencies, such as those at: https://www.google.com/#q=site:state.ak.us  -- Note added 7/8/14 12:25"
-"state agencies,state",", Alabama","*state.al.us pattern to include Alabama state agencies, such as those at: https://www.google.com/#q=site:state.al.us  -- Note added 7/8/14 12:26"
-state,", Arkansas",*state.ar.us pattern for State of Arkansas agencies -- Note added 7/17/13 19:01
-"state agencies,state",", Arizona","*state.az.us pattern to include Arizona state agencies, such as those at https://www.google.com/#q=site:state.az.us.  -- Note added 12/13/13 13:17"
-"state agencies,state",", California","*state.ca.us pattern to include California state agencies, such as those at: https://www.google.com/#q=site:state.ca.us  -- Note added 6/27/14 16:14"
+"authority,state,public",,PA State Public School Building Authority -- Note added 6/7/13 11:53
+"state,york state,commission","Maryland, New York, Pennsylvania","Susquehanna River Basin Commission -¬†The Susquehanna River Basin Compact, was signed into law on December 24, 1970. The Compact, as adopted by the Congress of the United States, and the legislatures of New York State, Pennsylvania and Maryland, provides the mechanism to guide the conservation, development, and administration of the water resources of the vast river basin. -- Note added 6/26/13 16:30"
+"carolina,state,north",North Carolina,"Start Squad, kid's portal to the State Library of North Carolina -- Note added 8/25/14 12:12"
+north,North Carolina,North Carolina's Justus-Warren Heart Disease and Stroke Prevention Task Force -- Note added 11/10/15 20:35
+"state agencies,state",Alaska,"*state.ak.us pattern to include Alaska state agencies, such as those at: https://www.google.com/#q=site:state.ak.us  -- Note added 7/8/14 12:25"
+"state agencies,state",Alabama,"*state.al.us pattern to include Alabama state agencies, such as those at: https://www.google.com/#q=site:state.al.us  -- Note added 7/8/14 12:26"
+state,Arkansas,*state.ar.us pattern for State of Arkansas agencies -- Note added 7/17/13 19:01
+"state agencies,state",Arizona,"*state.az.us pattern to include Arizona state agencies, such as those at https://www.google.com/#q=site:state.az.us.  -- Note added 12/13/13 13:17"
+"state agencies,state",California,"*state.ca.us pattern to include California state agencies, such as those at: https://www.google.com/#q=site:state.ca.us  -- Note added 6/27/14 16:14"
 state,,"Included to find *.state.co.us pattern to find state websites, such as https://www.google.com/search?q=site%3Astate.co.us  -- Note added 1/14/14 15:07"
-"state agencies,state",", Florida","*state.fl.us pattern to include Florida state agencies, such as those at: https://www.google.com/#q=site:state.fl.us   -- Note added 6/27/14 16:15"
+"state agencies,state",Florida,"*state.fl.us pattern to include Florida state agencies, such as those at: https://www.google.com/#q=site:state.fl.us   -- Note added 6/27/14 16:15"
 state,,State of Ga website -- Note added 8/25/15 16:09
-state,", Iowa",State of Iowa -- Note added 8/26/15 13:51
+state,Iowa,State of Iowa -- Note added 8/26/15 13:51
 ,,Pattern for *state.id.us websites -- Note added 7/8/13 19:27
-state,", Illinois",State of Illinois -- Note added 7/3/14 17:38
-state,", Indiana",state of  Indiana -- Note added 8/27/15 14:57
+state,Illinois,State of Illinois -- Note added 7/3/14 17:38
+state,Indiana,state of  Indiana -- Note added 8/27/15 14:57
 ,,Ky Website -- Note added 8/27/15 16:57
-state,", Louisiana",State Library of Louisiana -- Note added 7/26/13 16:18
+state,Louisiana,State Library of Louisiana -- Note added 7/26/13 16:18
 state,,Mass State Website -- Note added 8/26/15 16:22
-"state agencies,state",", Maryland","State website is at http://www.maryland.gov. state.md.us pattern to include Maryland state agencies, such as those at https://www.google.com/#q=site:state.md.us. -- Note added 7/23/14 16:07"
+"state agencies,state",Maryland,"State website is at http://www.maryland.gov. state.md.us pattern to include Maryland state agencies, such as those at https://www.google.com/#q=site:state.md.us. -- Note added 7/23/14 16:07"
 state,,state of maine -- Note added 8/27/15 20:01
 state,,state of michigan -- Note added 9/3/15 16:11
-"services,state",", Minnesota",Minnesota.gov portal; 'electronic entry point to Minnesota State government information and services' -- Note added 6/2/15 1:37
-state,", Mississippi",State of Mississippi -- Note added 7/8/14 12:53
+"services,state",Minnesota,Minnesota.gov portal; 'electronic entry point to Minnesota State government information and services' -- Note added 6/2/15 1:37
+state,Mississippi,State of Mississippi -- Note added 7/8/14 12:53
 "state agencies,state",,*.state.ne.us pattern to include several state agencies. -- Note added 12/9/13 18:31
 state,,NH State Website -- Note added 9/2/15 19:11
-"state agencies,site,state",", New Jersey","http://www.state.nj.us/ and http://www.nj.gov both resolve to the same site. n*state.nj.us pattern to include New Jersey state agencies, such as those at: https://www.google.com/#q=site:state.nj.us  -- Note added 7/8/14 13:04"
-state,", New Mexico",State of New Mexico -- Note added 7/16/14 5:42
-state,", Ohio",State of Ohio -- Note added 3/27/14 18:36
+"site,state agencies,state",New Jersey,"http://www.state.nj.us/ and http://www.nj.gov both resolve to the same site. n*state.nj.us pattern to include New Jersey state agencies, such as those at: https://www.google.com/#q=site:state.nj.us  -- Note added 7/8/14 13:04"
+state,New Mexico,State of New Mexico -- Note added 7/16/14 5:42
+state,Ohio,State of Ohio -- Note added 3/27/14 18:36
 state,,State of OK website -- Note added 8/28/15 18:27
-state,", Oregon","http://www.state.or.us/ resolves to a non-styled version of http://www.oregon.gov/  n*state.or.us pattern included here to find State of Oregon agencies, such as: https://www.google.com/search?q=site:state.or.us -- Note added 7/17/14 17:40"
+state,Oregon,"http://www.state.or.us/ resolves to a non-styled version of http://www.oregon.gov/  n*state.or.us pattern included here to find State of Oregon agencies, such as: https://www.google.com/search?q=site:state.or.us -- Note added 7/17/14 17:40"
 state,,State of SC  -- Note added 8/28/15 15:35
-state,", South Dakota",South Dakota State Government Website -- Note added 7/17/14 6:01
-site,", Tennessee",Official site of the Tennessee Government -- Note added 6/26/14 13:27
-,", Virginia",The official website of the Commonwealth of Virginia -- Note added 6/27/14 14:50
-state,", Vermont",State of Vermont -- Note added 8/15/14 14:27
-state,", Washington",State of Washington -- Note added 11/17/14 6:48
+state,South Dakota,South Dakota State Government Website -- Note added 7/17/14 6:01
+site,Tennessee,Official site of the Tennessee Government -- Note added 6/26/14 13:27
+,Virginia,The official website of the Commonwealth of Virginia -- Note added 6/27/14 14:50
+state,Vermont,State of Vermont -- Note added 8/15/14 14:27
+state,Washington,State of Washington -- Note added 11/17/14 6:48
 ,,"*.state.wi.us pattern is included here for various Department-level agencies, such as those at: https://www.google.com/search?q=site%3Astate.wi.us  Requires 'www' to resolve. -- Note added 4/2/14 12:49"
-"tourism,travel tourism,travel,state",", Wyoming",State of Wyoming travel and tourism website -- Note added 7/23/14 5:34
-state,", Nebraska",Nebraska State Fair -- Note added 12/6/13 19:53
-,", New York","Staten Island Borough President, New York, NY -- Note added 11/20/13 18:23"
-"division,nc",,NC Division of Surplus Property -- Note added 9/15/15 18:02
+"tourism,travel,travel tourism,state",Wyoming,State of Wyoming travel and tourism website -- Note added 7/23/14 5:34
+state,Nebraska,Nebraska State Fair -- Note added 12/6/13 19:53
+,New York,"Staten Island Borough President, New York, NY -- Note added 11/20/13 18:23"
+"nc,division",,NC Division of Surplus Property -- Note added 9/15/15 18:02
 nc,,NC sustainability connection -- Note added 9/15/15 18:06
-"carolina,public,north",", North Carolina","Welcome to Teach4NC, dedicated to the recruitment of teaching professionals for public schools in North Carolina. -- Note added 9/15/15 18:19"
-commission,", Tennessee",Tennessee Holocaust Commission -- Note added 6/26/14 7:22
-state,", Texas",State Bar of Texas -- Note added 6/20/14 16:58
-,", Tennessee",Tennessee Foreign Language Institute -- Note added 6/26/14 7:21
-,", Tennessee",Tennessee Housing Development Agency -- Note added 6/26/14 7:19
+"carolina,north,public",North Carolina,"Welcome to Teach4NC, dedicated to the recruitment of teaching professionals for public schools in North Carolina. -- Note added 9/15/15 18:19"
+commission,Tennessee,Tennessee Holocaust Commission -- Note added 6/26/14 7:22
+state,Texas,State Bar of Texas -- Note added 6/20/14 16:58
+,Tennessee,Tennessee Foreign Language Institute -- Note added 6/26/14 7:21
+,Tennessee,Tennessee Housing Development Agency -- Note added 6/26/14 7:19
 economic development,,kentucky cabinet of economic development -- Note added 8/27/15 16:58
-,", Texas",Texas Municipal Retirement System (TMRS)  -- Note added 8/18/14 16:14
-,", Tennessee",Tennessee District Attorneys General Conference -- Note added 6/26/14 7:16
-,", Tennessee",Tennessee Emergency Management Agency -- Note added 6/26/14 7:15
-lottery,", Tennessee",Lottery Tennessee -- Note added 6/12/13 14:26
-national guard,", Tennessee",Tennessee National Guard -- Note added 6/26/14 7:13
-"tourism site,travel tourism,travel tourism site,tourism,site,travel,state",", Tennessee","Tennessee Vacation, the travel and tourism site for the state of Tennessee -- Note added 8/18/14 15:23"
-,", Texas",Texas Parks and Wildlife magazine -- Note added 3/20/14 16:35
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Alaska",Travel and Tourism Site for Alaska -- Note added 6/6/13 19:44
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Iowa",Travel and Tourism Site for Iowa -- Note added 6/6/13 19:44
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Kansas",Travel and Tourism Site for Kansas -- Note added 6/6/13 19:44
-"travel tourism,tourism,travel tourism sites,travel,tourism sites",", Nevada",Travel and Tourism Sites for Nevada -- Note added 6/6/13 19:11
-"travel tourism,tourism,travel tourism sites,travel,tourism sites",", Oklahoma",Travel and Tourism Sites for Oklahoma -- Note added 6/6/13 19:11
-"tourism site,travel tourism,travel tourism site,commission,tourism,site,travel",", Oregon","Travel and Tourism Site for Oregon, Oregon Tourism Commission -- Note added 7/23/14 16:09"
-"travel tourism,tourism,travel tourism sites,travel,tourism sites",", South Dakota",Travel and Tourism Sites for South Dakota -- Note added 6/6/13 19:11
-"travel tourism,tourism,travel tourism sites,travel,tourism sites",", Texas",Travel and Tourism Sites for Texas -- Note added 6/6/13 19:11
-"travel tourism,tourism,travel tourism sites,travel,tourism sites",", Wisconsin",Travel and Tourism Sites for Wisconsin -- Note added 6/6/13 19:11
-state,", Nebraska",Nebraska State Treasurer -- Note added 12/6/13 20:03
-commission,", Washington",Washington Tree Fruit Research Commission -- Note added 11/12/14 6:37
-"authority,state",", Washington",Washington State Tobacco Settlement Authority -- Note added 4/8/14 18:29
-lottery,", Texas",Texas Lottery -- Note added 6/12/13 14:26
-"division,cooperative extension service",", Arkansas","University of Arkansas, Division of AgricultureResearch & Extension, University of Arkansas System Arkansas Cooperative Extension Service -- Note added 12/10/14 7:11"
-cooperative extension service,", Alaska",University of Alaska Fairbanks Cooperative Extension Service -- Note added 6/7/13 16:34
-,", Idaho",University of Idaho Extension -- Note added 7/8/13 14:29
-,", Virgin Islands",U.S. Virgin Islands Bureau of Economic Research -- Note added 8/18/14 14:14
-"economic development,authority,economic development authority",", Virgin Islands",U.S. Virgin Islands Economic Development Authority -- Note added 8/18/14 14:12
-,", Vermont",University of Vermont Extension -- Note added 8/18/14 5:33
-,", Wisconsin",University of Wisconsin-Extension -- Note added 8/12/14 5:36
-cooperative extension service,", Wyoming",University of Wyoming Cooperative Extension Service -- Note added 7/23/14 5:39
-state,", Virginia",Virginia State Rehabilitation Council (SRC) -- Note added 8/27/15 14:12
-state,", Virginia","The Virginia Association of Assessing Officers is a professional organization of assessors and appraisers from state and local governments throughout the Commonwealth. The organization's mission is to improve assessment standards, disseminate information on assessment practices, and provide continuing education to its members. -- Note added 7/11/14 18:56"
-board,", Virginia",Virginia Board for People with Disabilities -- Note added 7/11/14 18:57
-,", Virginia",Virginia Commonwealth Neurotrauma Initiative (CNI) Trust Fund -- Note added 9/3/15 11:28
-"services,department",", Virginia",Virginia Department for Aging and Rehabilitative Services -- Note added 8/27/15 14:22
-"services,department",", Virginia",Virginia Department for Aging and Rehabilitative Services -- Note added 6/6/13 18:09
-services,", Virginia",Virginia Disability Services Agencies -- Note added 7/14/14 16:54
-department,", Virginia",Virginia Department of Fire Programs -- Note added 6/12/13 18:15
-lottery,", Virginia",Virginia Lottery -- Note added 6/12/13 14:27
-,", Virginia",Virginia Statewide Independent Living Council -- Note added 9/3/15 11:14
-,", Virginia",Virginia Assistive Technology System -- Note added 7/11/14 19:06
-,", Virginia",Virginia Career Education Foundation is a non-profit organization that works to increase the number of qualified applicants available to fill technical positions throughout the Commonwealth of Virginia. -- Note added 7/11/14 19:07
-department,", Virginia",Virginia Department for the Blind and Vision Impaired -- Note added 7/11/14 19:09
-department,", Virginia",Virginia Department for the Deaf and Hard of Hearing (VDDHH) -- Note added 7/11/14 19:09
-"north,state",", North Carolina",State of North Carolina's Vendor Registration -- Note added 1/14/14 13:04
-,", Vermont",Vermont Arts Council -- Note added 8/18/14 5:35
-,", Vermont",Vermont Historical Society -- Note added 8/18/14 5:36
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Vermont",Travel and Tourism Site for Vermont -- Note added 6/6/13 19:19
-authority,", Virginia",Virginia Housing Development Authority -- Note added 7/11/14 19:10
-,", Vermont",Vermont Housing Finance Agency -- Note added 8/18/14 5:37
-"services,department agriculture consumer,economic development,department,board",", Virginia",The Virginia Horse Industry Board is responsible for the promotion and economic development of the horse industry in Virginia and operates through the Virginia Department of Agriculture and Consumer Services. -- Note added 7/11/14 19:12
-,", Virginia","Virginia Industries for the Blind, Commonwealth of Virginia -- Note added 9/3/15 11:46"
-"department education,department",", Virgin Islands",Virgin Islands Department of Education -- Note added 8/18/14 14:08
-office,", Virgin Islands",Office of the Virgin Islands Inspector General -- Note added 8/18/14 14:13
-department,", Virgin Islands",U.S. Virgin Islands Police Department -- Note added 8/18/14 14:16
-"travel tourism,tourism,travel tourism sites,travel,tourism sites",", Virginia",Travel and Tourism Sites for Virginia -- Note added 6/6/13 19:11
-,", Virginia",Virginia College Savings Plan -- Note added 7/11/14 19:18
-economic development,", Virginia",Virginia Economic Development Partnership's Ally Information Exchange -- Note added 7/11/14 20:17
-department,", Virginia",Virginia Department of Transportation -- Note added 7/11/14 20:18
-authority,", Virginia",Virginia Resources Authority -- Note added 7/11/14 20:19
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", California",Travel and Tourism Site for California -- Note added 8/27/13 12:59
-,", California",California Welcome Centers -- Note added 8/27/13 12:58
-"travel tourism,tourism,travel tourism sites,travel,tourism sites",", Delaware",Travel and Tourism Sites for Delaware -- Note added 6/6/13 19:11
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Florida",Travel and Tourism Site for Florida -- Note added 6/6/13 19:15
-"travel tourism,tourism,travel tourism sites,travel,tourism sites",", Guam",Travel and Tourism Sites for Guam -- Note added 6/6/13 19:11
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Idaho",Travel and Tourism Site for Idaho -- Note added 6/6/13 19:48
-"travel tourism,tourism,travel tourism sites,travel,tourism sites",", Maine",Travel and Tourism Sites for Maine -- Note added 6/6/13 19:11
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Maryland",Travel and Tourism Site for Maryland -- Note added 6/6/13 19:17
-"travel tourism,tourism,travel tourism sites,travel,tourism sites",", Mississippi",Travel and Tourism Sites for Mississippi -- Note added 6/6/13 19:11
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Missouri",Travel and Tourism Site for Missouri -- Note added 6/6/13 19:34
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Montana",Travel and Tourism Site for Montana -- Note added 6/6/13 19:33
-"carolina,travel tourism,tourism site,travel tourism site,tourism,site,north,travel",", North Carolina",Travel and Tourism Site for North Carolina -- Note added 6/6/13 19:33
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Nebraska",Travel and Tourism Site for Nebraska -- Note added 6/6/13 19:33
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Pennsylvania",Travel and Tourism Site for Pennsylvania -- Note added 6/6/13 19:32
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Rhode Island",Travel and Tourism Site for Rhode Island -- Note added 6/6/13 19:32
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Virgin Islands",Travel and tourism site for the US Virgin Islands -- Note added 6/6/13 19:47
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Utah",Travel and Tourism Site for Utah -- Note added 6/6/13 19:31
-,", Virgin Islands",Supreme Court of the United States Virgin Islands -- Note added 8/18/14 14:06
-"department,state",", Florida","Viva Florida 500 is a statewide initiative led by the Florida Department of State, under the leadership of Governor Rick Scott, to highlight the 500 years of historic people, places and events in present-day Florida since the arrival of Juan Ponce de Leon to the land he named La Florida in 1513. See more at http://www.vivaflorida.org/About-Viva-Florida/ -- Note added 7/23/14 14:01"
-,", Virginia","Virginia Museum of Natural History in Martinsville, VA -- Note added 7/11/14 20:20"
-commission,", Florida",Florida Governor's Commission on Volunteerism and Community Service -- Note added 11/9/15 19:00
-commission,", Mississippi","Volunteer Mississippi, A Mississippi Commission for Volunteer Service (MCVS) -- Note added 7/28/14 14:58"
-"carolina,commission,north",", North Carolina",North Carolina Commission on Volunteerism and Community Service -- Note added 11/10/15 20:34
-,", Virginia",Virginia Rehabilitation Center for the Blind and Vision Impaired -- Note added 8/27/15 15:09
-,", Virginia",Virginia Rural Water Association -- Note added 7/23/13 19:42
-state,", Virginia",Virginia State Bar -- Note added 7/11/14 20:21
-national guard,", Vermont",Vermont National Guard -- Note added 1/23/14 14:03
-lottery,", Vermont",Vermont Lottery -- Note added 6/12/13 14:27
-commission,", Washington",Washington Blueberry Commission -- Note added 11/12/14 6:30
-commission,", Washington",Washington Hardwoods Commission -- Note added 11/12/14 6:29
-"lottery,state",", Washington",Washington State Lottery -- Note added 12/2/14 7:23
-"commission,state",", Washington",Washington State Seed Potato Commission -- Note added 11/12/14 6:26
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", District Of Columbia",Travel and Tourism Site for the District of Columbia -- Note added 6/6/13 19:31
-national guard,", Washington",Washington Air National Guard -- Note added 1/3/14 13:08
-national guard,", Washington",Washington Army National Guard -- Note added 1/23/14 14:03
-national guard,", Washington",Washington National Guard -- Note added 1/23/14 14:03
-"commission,state",", Washington",Washington State Wine Commission -- Note added 11/12/14 6:23
-,", Washington",Washington Association of Sheriffs and Police Chiefs -- Note added 11/12/14 6:22
-state,", Mississippi","Waterparkin', a website of the Pat Harrison Waterway District (PHWD) a Mississippi State Agency that provides camping, cabins and recreational facilities in Mississippi. See historical snaphot at: http://web.archive.org/web/20101224004547/http://waterparkin.com/  -- Note added 1/13/14 20:28"
-"carolina,office,north",", North Carolina","The Way We Lived in North Carolina, presented by http://www.ah.dcr.state.nc.us/ The North Carolina Office of Archives & History. -- Note added 8/13/14 17:41"
-"department,state",", Wisconsin",State of Wisconsin Department of Financial Institutions -- Note added 8/11/14 5:34
-,", Rhode Island",University of Rhode Island Cooperative Extension -- Note added 6/7/13 18:31
-"economic development,authority",", Washington",Washington Economic Development Finance Authority -- Note added 11/12/14 6:21
-"division,health,nc,public,public health,division public health",,"Women's Health Branch, NC Division of Public Health -- Note added 7/26/13 15:11"
-"economic development,authority,economic development authority",", Wisconsin",Wisconsin Housing and Economic Development Authority -- Note added 8/11/14 5:30
-authority,", Washington",Washington Higher Education Facilities Authority -- Note added 4/8/14 18:33
-department,", Oklahoma",Oklahoma Department of Wildlife Conservation - http://www.wildlifedepartment.com/  -- Note added 10/29/13 15:11
-lottery,", Wisconsin",Wisconsin Lottery -- Note added 6/12/13 14:28
-lottery,", Virgin Islands",Virgin Islands Lottery -- Note added 6/12/13 14:29
-,", Wisconsin",Wisconsin Historical Society -- Note added 8/11/14 5:26
-"office,public,state",", Wisconsin",Wisconsin State Public Defender's Office -- Note added 6/14/13 17:38
-,", Wisconsin",Register of Deeds Association of Wisconsin -- Note added 8/11/14 5:23
-"division,services,health,nc,health human services,state",,"NC Dept of Health and Human services, division of State operated healthcare facilities -- Note added 9/14/15 20:51"
-state,", Washington",Washington State Convention Center -- Note added 11/6/14 7:30
-"commission,state",", Washington",Washington State Commission on Pesticide Registration -- Note added 11/6/14 7:32
-"commission,state",", Washington",Washington State Housing Finance Commission -- Note added 11/6/14 7:27
-state,", Washington",Washington State School for the Blind -- Note added 7/31/13 16:31
-department,", Virginia, West Virginia",West Virginia Department of Agriculture -- Note added 3/31/14 13:07
-department,", Virginia, West Virginia",West Virginia Department of Commerce -- Note added 3/24/14 16:50
-division,", Virginia, West Virginia",West Virginia Division of Culture and History -- Note added 3/31/14 13:08
-"department health human,department,health",", Virginia, West Virginia",West Virginia Department of Health and Human Resources -- Note added 7/24/14 5:50
-,", Virginia, West Virginia",West Virginia Housing Development Fund -- Note added 7/24/14 5:51
-commission,", Virginia, West Virginia",West Virginia Higher Education Policy Commission -- Note added 3/31/14 13:12
-"division,department",", Virginia, West Virginia","West Virginia Department of Commerce, Division of Labor -- Note added 7/24/14 5:52"
-lottery,", Virginia, West Virginia",West Virginia Lottery -- Note added 6/12/13 14:29
-,", Virginia, West Virginia",West Virginia Network for Educational Telecomputing -- Note added 7/24/14 5:54
-"board,public",", Virginia, West Virginia",West Virginia Consolidated Public Retirement Board -- Note added 3/31/14 13:33
-state,", Virginia, West Virginia",West Virginia State Parks -- Note added 3/31/14 13:34
-"office,state",", Virginia, West Virginia",West Virginia State Treasurer's Office -- Note added 3/31/14 13:35
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Virginia, West Virginia",Travel and Tourism Site for West Virginia -- Note added 6/6/13 19:18
-authority,", Virginia, West Virginia",West Virginia Water Development Authority -- Note added 7/24/14 5:57
-national guard,", Montana",Montana Army National Guard -- Note added 3/2/15 6:52
-,", Wyoming",Wyoming Business Council -- Note added 6/7/13 16:41
-"tourism site,travel tourism,travel tourism site,tourism,site,travel",", Wyoming",Travel and Tourism Site for Wyoming -- Note added 6/6/13 19:31
-"economic development,board,authority,state",", Virginia","Virginia Economic Development Partnership. As a state authority, the Partnership is governed by a 25 member http://yesvirginia.org/AboutUs/BoardOfDirectors Board Of Directors comprised of businesspersons from around Virginia, each of whom is appointed by the http://www.governor.virginia.gov Governor and the General Assembly.  -- Note added 11/20/13 18:52"
+,Texas,Texas Municipal Retirement System (TMRS)  -- Note added 8/18/14 16:14
+,Tennessee,Tennessee District Attorneys General Conference -- Note added 6/26/14 7:16
+,Tennessee,Tennessee Emergency Management Agency -- Note added 6/26/14 7:15
+lottery,Tennessee,Lottery Tennessee -- Note added 6/12/13 14:26
+national guard,Tennessee,Tennessee National Guard -- Note added 6/26/14 7:13
+"tourism,travel tourism,site,travel tourism site,travel,state,tourism site",Tennessee,"Tennessee Vacation, the travel and tourism site for the state of Tennessee -- Note added 8/18/14 15:23"
+,Texas,Texas Parks and Wildlife magazine -- Note added 3/20/14 16:35
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Alaska,Travel and Tourism Site for Alaska -- Note added 6/6/13 19:44
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Iowa,Travel and Tourism Site for Iowa -- Note added 6/6/13 19:44
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Kansas,Travel and Tourism Site for Kansas -- Note added 6/6/13 19:44
+"tourism,travel tourism,tourism sites,travel,travel tourism sites",Nevada,Travel and Tourism Sites for Nevada -- Note added 6/6/13 19:11
+"tourism,travel tourism,tourism sites,travel,travel tourism sites",Oklahoma,Travel and Tourism Sites for Oklahoma -- Note added 6/6/13 19:11
+"tourism,travel tourism,site,travel tourism site,travel,tourism site,commission",Oregon,"Travel and Tourism Site for Oregon, Oregon Tourism Commission -- Note added 7/23/14 16:09"
+"tourism,travel tourism,tourism sites,travel,travel tourism sites",South Dakota,Travel and Tourism Sites for South Dakota -- Note added 6/6/13 19:11
+"tourism,travel tourism,tourism sites,travel,travel tourism sites",Texas,Travel and Tourism Sites for Texas -- Note added 6/6/13 19:11
+"tourism,travel tourism,tourism sites,travel,travel tourism sites",Wisconsin,Travel and Tourism Sites for Wisconsin -- Note added 6/6/13 19:11
+state,Nebraska,Nebraska State Treasurer -- Note added 12/6/13 20:03
+commission,Washington,Washington Tree Fruit Research Commission -- Note added 11/12/14 6:37
+"state,authority",Washington,Washington State Tobacco Settlement Authority -- Note added 4/8/14 18:29
+lottery,Texas,Texas Lottery -- Note added 6/12/13 14:26
+"division,cooperative extension service",Arkansas,"University of Arkansas, Division of AgricultureResearch & Extension, University of Arkansas System Arkansas Cooperative Extension Service -- Note added 12/10/14 7:11"
+cooperative extension service,Alaska,University of Alaska Fairbanks Cooperative Extension Service -- Note added 6/7/13 16:34
+,Idaho,University of Idaho Extension -- Note added 7/8/13 14:29
+,Virgin Islands,U.S. Virgin Islands Bureau of Economic Research -- Note added 8/18/14 14:14
+"economic development,economic development authority,authority",Virgin Islands,U.S. Virgin Islands Economic Development Authority -- Note added 8/18/14 14:12
+,Vermont,University of Vermont Extension -- Note added 8/18/14 5:33
+,Wisconsin,University of Wisconsin-Extension -- Note added 8/12/14 5:36
+cooperative extension service,Wyoming,University of Wyoming Cooperative Extension Service -- Note added 7/23/14 5:39
+state,Virginia,Virginia State Rehabilitation Council (SRC) -- Note added 8/27/15 14:12
+state,Virginia,"The Virginia Association of Assessing Officers is a professional organization of assessors and appraisers from state and local governments throughout the Commonwealth. The organization's mission is to improve assessment standards, disseminate information on assessment practices, and provide continuing education to its members. -- Note added 7/11/14 18:56"
+board,Virginia,Virginia Board for People with Disabilities -- Note added 7/11/14 18:57
+,Virginia,Virginia Commonwealth Neurotrauma Initiative (CNI) Trust Fund -- Note added 9/3/15 11:28
+"services,department",Virginia,Virginia Department for Aging and Rehabilitative Services -- Note added 8/27/15 14:22
+"services,department",Virginia,Virginia Department for Aging and Rehabilitative Services -- Note added 6/6/13 18:09
+services,Virginia,Virginia Disability Services Agencies -- Note added 7/14/14 16:54
+department,Virginia,Virginia Department of Fire Programs -- Note added 6/12/13 18:15
+lottery,Virginia,Virginia Lottery -- Note added 6/12/13 14:27
+,Virginia,Virginia Statewide Independent Living Council -- Note added 9/3/15 11:14
+,Virginia,Virginia Assistive Technology System -- Note added 7/11/14 19:06
+,Virginia,Virginia Career Education Foundation is a non-profit organization that works to increase the number of qualified applicants available to fill technical positions throughout the Commonwealth of Virginia. -- Note added 7/11/14 19:07
+department,Virginia,Virginia Department for the Blind and Vision Impaired -- Note added 7/11/14 19:09
+department,Virginia,Virginia Department for the Deaf and Hard of Hearing (VDDHH) -- Note added 7/11/14 19:09
+"state,north",North Carolina,State of North Carolina's Vendor Registration -- Note added 1/14/14 13:04
+,Vermont,Vermont Arts Council -- Note added 8/18/14 5:35
+,Vermont,Vermont Historical Society -- Note added 8/18/14 5:36
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Vermont,Travel and Tourism Site for Vermont -- Note added 6/6/13 19:19
+authority,Virginia,Virginia Housing Development Authority -- Note added 7/11/14 19:10
+,Vermont,Vermont Housing Finance Agency -- Note added 8/18/14 5:37
+"department,economic development,board,services,department agriculture consumer",Virginia,The Virginia Horse Industry Board is responsible for the promotion and economic development of the horse industry in Virginia and operates through the Virginia Department of Agriculture and Consumer Services. -- Note added 7/11/14 19:12
+,Virginia,"Virginia Industries for the Blind, Commonwealth of Virginia -- Note added 9/3/15 11:46"
+"department education,department",Virgin Islands,Virgin Islands Department of Education -- Note added 8/18/14 14:08
+office,Virgin Islands,Office of the Virgin Islands Inspector General -- Note added 8/18/14 14:13
+department,Virgin Islands,U.S. Virgin Islands Police Department -- Note added 8/18/14 14:16
+"tourism,travel tourism,tourism sites,travel,travel tourism sites",Virginia,Travel and Tourism Sites for Virginia -- Note added 6/6/13 19:11
+,Virginia,Virginia College Savings Plan -- Note added 7/11/14 19:18
+economic development,Virginia,Virginia Economic Development Partnership's Ally Information Exchange -- Note added 7/11/14 20:17
+department,Virginia,Virginia Department of Transportation -- Note added 7/11/14 20:18
+authority,Virginia,Virginia Resources Authority -- Note added 7/11/14 20:19
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",California,Travel and Tourism Site for California -- Note added 8/27/13 12:59
+,California,California Welcome Centers -- Note added 8/27/13 12:58
+"tourism,travel tourism,tourism sites,travel,travel tourism sites",Delaware,Travel and Tourism Sites for Delaware -- Note added 6/6/13 19:11
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Florida,Travel and Tourism Site for Florida -- Note added 6/6/13 19:15
+"tourism,travel tourism,tourism sites,travel,travel tourism sites",Guam,Travel and Tourism Sites for Guam -- Note added 6/6/13 19:11
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Idaho,Travel and Tourism Site for Idaho -- Note added 6/6/13 19:48
+"tourism,travel tourism,tourism sites,travel,travel tourism sites",Maine,Travel and Tourism Sites for Maine -- Note added 6/6/13 19:11
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Maryland,Travel and Tourism Site for Maryland -- Note added 6/6/13 19:17
+"tourism,travel tourism,tourism sites,travel,travel tourism sites",Mississippi,Travel and Tourism Sites for Mississippi -- Note added 6/6/13 19:11
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Missouri,Travel and Tourism Site for Missouri -- Note added 6/6/13 19:34
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Montana,Travel and Tourism Site for Montana -- Note added 6/6/13 19:33
+"tourism,site,travel tourism,travel tourism site,carolina,travel,north,tourism site",North Carolina,Travel and Tourism Site for North Carolina -- Note added 6/6/13 19:33
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Nebraska,Travel and Tourism Site for Nebraska -- Note added 6/6/13 19:33
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Pennsylvania,Travel and Tourism Site for Pennsylvania -- Note added 6/6/13 19:32
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Rhode Island,Travel and Tourism Site for Rhode Island -- Note added 6/6/13 19:32
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Virgin Islands,Travel and tourism site for the US Virgin Islands -- Note added 6/6/13 19:47
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Utah,Travel and Tourism Site for Utah -- Note added 6/6/13 19:31
+,Virgin Islands,Supreme Court of the United States Virgin Islands -- Note added 8/18/14 14:06
+"state,department",Florida,"Viva Florida 500 is a statewide initiative led by the Florida Department of State, under the leadership of Governor Rick Scott, to highlight the 500 years of historic people, places and events in present-day Florida since the arrival of Juan Ponce de Leon to the land he named La Florida in 1513. See more at http://www.vivaflorida.org/About-Viva-Florida/ -- Note added 7/23/14 14:01"
+,Virginia,"Virginia Museum of Natural History in Martinsville, VA -- Note added 7/11/14 20:20"
+commission,Florida,Florida Governor's Commission on Volunteerism and Community Service -- Note added 11/9/15 19:00
+commission,Mississippi,"Volunteer Mississippi, A Mississippi Commission for Volunteer Service (MCVS) -- Note added 7/28/14 14:58"
+"carolina,north,commission",North Carolina,North Carolina Commission on Volunteerism and Community Service -- Note added 11/10/15 20:34
+,Virginia,Virginia Rehabilitation Center for the Blind and Vision Impaired -- Note added 8/27/15 15:09
+,Virginia,Virginia Rural Water Association -- Note added 7/23/13 19:42
+state,Virginia,Virginia State Bar -- Note added 7/11/14 20:21
+national guard,Vermont,Vermont National Guard -- Note added 1/23/14 14:03
+lottery,Vermont,Vermont Lottery -- Note added 6/12/13 14:27
+commission,Washington,Washington Blueberry Commission -- Note added 11/12/14 6:30
+commission,Washington,Washington Hardwoods Commission -- Note added 11/12/14 6:29
+"lottery,state",Washington,Washington State Lottery -- Note added 12/2/14 7:23
+"state,commission",Washington,Washington State Seed Potato Commission -- Note added 11/12/14 6:26
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",District Of Columbia,Travel and Tourism Site for the District of Columbia -- Note added 6/6/13 19:31
+national guard,Washington,Washington Air National Guard -- Note added 1/3/14 13:08
+national guard,Washington,Washington Army National Guard -- Note added 1/23/14 14:03
+national guard,Washington,Washington National Guard -- Note added 1/23/14 14:03
+"state,commission",Washington,Washington State Wine Commission -- Note added 11/12/14 6:23
+,Washington,Washington Association of Sheriffs and Police Chiefs -- Note added 11/12/14 6:22
+state,Mississippi,"Waterparkin', a website of the Pat Harrison Waterway District (PHWD) a Mississippi State Agency that provides camping, cabins and recreational facilities in Mississippi. See historical snaphot at: http://web.archive.org/web/20101224004547/http://waterparkin.com/  -- Note added 1/13/14 20:28"
+"carolina,office,north",North Carolina,"The Way We Lived in North Carolina, presented by http://www.ah.dcr.state.nc.us/ The North Carolina Office of Archives & History. -- Note added 8/13/14 17:41"
+"state,department",Wisconsin,State of Wisconsin Department of Financial Institutions -- Note added 8/11/14 5:34
+,Rhode Island,University of Rhode Island Cooperative Extension -- Note added 6/7/13 18:31
+"economic development,authority",Washington,Washington Economic Development Finance Authority -- Note added 11/12/14 6:21
+"public health,division,public,nc,division public health,health",,"Women's Health Branch, NC Division of Public Health -- Note added 7/26/13 15:11"
+"economic development,economic development authority,authority",Wisconsin,Wisconsin Housing and Economic Development Authority -- Note added 8/11/14 5:30
+authority,Washington,Washington Higher Education Facilities Authority -- Note added 4/8/14 18:33
+department,Oklahoma,Oklahoma Department of Wildlife Conservation - http://www.wildlifedepartment.com/  -- Note added 10/29/13 15:11
+lottery,Wisconsin,Wisconsin Lottery -- Note added 6/12/13 14:28
+lottery,Virgin Islands,Virgin Islands Lottery -- Note added 6/12/13 14:29
+,Wisconsin,Wisconsin Historical Society -- Note added 8/11/14 5:26
+"state,office,public",Wisconsin,Wisconsin State Public Defender's Office -- Note added 6/14/13 17:38
+,Wisconsin,Register of Deeds Association of Wisconsin -- Note added 8/11/14 5:23
+"health human services,division,nc,state,services,health",,"NC Dept of Health and Human services, division of State operated healthcare facilities -- Note added 9/14/15 20:51"
+state,Washington,Washington State Convention Center -- Note added 11/6/14 7:30
+"state,commission",Washington,Washington State Commission on Pesticide Registration -- Note added 11/6/14 7:32
+"state,commission",Washington,Washington State Housing Finance Commission -- Note added 11/6/14 7:27
+state,Washington,Washington State School for the Blind -- Note added 7/31/13 16:31
+department,"Virginia, West Virginia",West Virginia Department of Agriculture -- Note added 3/31/14 13:07
+department,"Virginia, West Virginia",West Virginia Department of Commerce -- Note added 3/24/14 16:50
+division,"Virginia, West Virginia",West Virginia Division of Culture and History -- Note added 3/31/14 13:08
+"department health human,health,department","Virginia, West Virginia",West Virginia Department of Health and Human Resources -- Note added 7/24/14 5:50
+,"Virginia, West Virginia",West Virginia Housing Development Fund -- Note added 7/24/14 5:51
+commission,"Virginia, West Virginia",West Virginia Higher Education Policy Commission -- Note added 3/31/14 13:12
+"division,department","Virginia, West Virginia","West Virginia Department of Commerce, Division of Labor -- Note added 7/24/14 5:52"
+lottery,"Virginia, West Virginia",West Virginia Lottery -- Note added 6/12/13 14:29
+,"Virginia, West Virginia",West Virginia Network for Educational Telecomputing -- Note added 7/24/14 5:54
+"board,public","Virginia, West Virginia",West Virginia Consolidated Public Retirement Board -- Note added 3/31/14 13:33
+state,"Virginia, West Virginia",West Virginia State Parks -- Note added 3/31/14 13:34
+"state,office","Virginia, West Virginia",West Virginia State Treasurer's Office -- Note added 3/31/14 13:35
+"tourism,travel tourism,site,travel tourism site,travel,tourism site","Virginia, West Virginia",Travel and Tourism Site for West Virginia -- Note added 6/6/13 19:18
+authority,"Virginia, West Virginia",West Virginia Water Development Authority -- Note added 7/24/14 5:57
+national guard,Montana,Montana Army National Guard -- Note added 3/2/15 6:52
+,Wyoming,Wyoming Business Council -- Note added 6/7/13 16:41
+"tourism,travel tourism,site,travel tourism site,travel,tourism site",Wyoming,Travel and Tourism Site for Wyoming -- Note added 6/6/13 19:31
+"board,economic development,state,authority",Virginia,"Virginia Economic Development Partnership. As a state authority, the Partnership is governed by a 25 member http://yesvirginia.org/AboutUs/BoardOfDirectors Board Of Directors comprised of businesspersons from around Virginia, each of whom is appointed by the http://www.governor.virginia.gov Governor and the General Assembly.  -- Note added 11/20/13 18:52"

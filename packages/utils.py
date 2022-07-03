@@ -13,8 +13,9 @@ def read_csv(file_name, col_name):
             result.append(row[col_name])
     return result
 
-states = set(sorted(read_csv('govt_urls_state_only.csv', 'Location')))
-states_lwr = sorted([state.lower() for state in states if state])
+raw_states = (read_csv('govt_urls_state_only.csv', 'Location'))
+states = sorted([state for state in raw_states if state])
+states_lwr = [state.lower() for state in states]
 
 
 def remove_punctuation(line):
